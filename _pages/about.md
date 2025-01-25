@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-김창수 박사님의 홈페이지 입니다.
+김창수 박사님의 홈페이지 입니다. \n \n
 
 This is Dr. Chang Soo Kim's home on the web!
 
