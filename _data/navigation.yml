@@ -10,9 +10,6 @@ main:
 
   - title: "이력서"
     url: /cv/        
-    
-  - title: "강의"
-    url: /talks/
 
   - title: "Publications"
     url: /publications/
