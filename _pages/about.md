@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 김창수 박사님의 홈페이지 입니다.
+
 This is Dr. Chang Soo Kim's home on the web!
 
 자격사항 및 전문기술
