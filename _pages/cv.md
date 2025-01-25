@@ -11,54 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in in Materials Science, Department of Materials Science and Engineering, 1990
+* M.S. in Metallurgical Engineering, Seoul National University, 1983
+* B.S. in Metallurgical Engineering, Seoul National University, 1981
 
-Work experience
+Professional Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Scientific Advisor
+  * Korea ITS
+  * March 2024 - present
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Center Head
+  * Center for Convergence Property Measurement
+  * Korea Research Institute of Standards and Science
+  * March 2019 - 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Principal Research Scientist
+  * Korea Research Institute of Standards and Science
+  * August 1991 - February 2024
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Center Head
+  * Center for New Functional Materials Measurement
+  * Korea Research Institute of Standards and Science
+  * January 2015 – December 2017
+
+* Center Head
+  * Center for Materials Measurement
+  * Korea Research Institute of Standards and Science
+  * January 2010 – December 2011
+
+* Postdoctoral Researcher
+  * North Carolina State University
+  * June 1990 – July 1991
+
+* Research Engineer
+  * Research Institute of Hyundai Motor Co.
+  * July 1984 – July 1986
   
-Talks
+Awards and Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* KRISS Distinguished Research Scientist, 2018.
+* Award of the Minister of Science and ICT, 2014.
+* KRISS Award of the Month, Jan 2014.
+* Outstanding Paper Award for 1989 Scripta Metallugica et Materialia
