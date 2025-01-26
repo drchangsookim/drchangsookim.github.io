@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-김창수 박사님의 홈페이지 입니다. \n \n
+<br> 김창수 박사님의 홈페이지 입니다. <br>
 
-This is Dr. Chang Soo Kim's home on the web!
+<br> This is Dr. Chang Soo Kim's home on the web! <br>
 
 자격사항 및 전문기술
 ======
