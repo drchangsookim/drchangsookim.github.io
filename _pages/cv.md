@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in in Materials Science, Department of Materials Science and Engineering, 1990
+* Ph.D in in Materials Science, University of Connecticut, Department of Materials Science and Engineering, 1990
 * M.S. in Metallurgical Engineering, Seoul National University, 1983
 * B.S. in Metallurgical Engineering, Seoul National University, 1981
 
