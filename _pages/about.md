@@ -12,9 +12,12 @@ redirect_from:
 <p>본 홈페이지는 이러한 공유 및 전수 목적을 온라인에서 보다 더 충실하게 수행하기 위하여 운영할 계획입니다. 우선 제가 공들여 만들고 발표한 자료들을 담은 자료실을 만들어 필요로 하는 분들과 공유할 수 있게 할 예정이며 또한 궁금한 자료부분에 대하여 Q&A를 운용할 계획입니다.<br>
 <br>현재 본 홈페이지를 한창 구축 중에 있으며 어느 정도 초안이 완성되면 자료 공유가 가능하도록 할 예정입니다. 아무쪼록 본 홈페이지를 많이 이용해 주시고 많은 조언을 해 주셔서, 관련 분야의 정보와 자료가 잘 이해 공유되어 현장이나 실험실에서 잘 활용될 수 있기를 바랍니다.</p>
 
+<p></p>
+<p></p>
+<p></p>
 
-<img src="images/kriss_logo.jpg" alt="KRISS" style="width:100px;height:auto;"  />
-<img src="images/kits_logo.png" alt="KITS" style="width:100px;height:auto;" />
+<img src="images/kits_logo.png" alt="KITS" style="width:200px;height:auto;" />
+<img src="images/kriss_logo.jpg" alt="KRISS" style="width:200px;height:auto;"  />
 
 
 
