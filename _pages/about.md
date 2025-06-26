@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "김창수"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
