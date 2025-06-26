@@ -14,7 +14,7 @@ redirect_from:
 
 
 <img src="images/kriss_logo.jpg" alt="KRISS" />
-<img src="kits_logo.png" alt="KITS" />
+<img src="images/kits_logo.png" alt="KITS" />
 
 
 
