@@ -1,5 +1,5 @@
 ---
-title: "자료"
+title: "다운로드"
 permalink: /downloads/
 redirect_from:
   - /downloads
