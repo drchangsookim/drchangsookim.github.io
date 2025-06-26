@@ -17,7 +17,7 @@ redirect_from:
 <p></p>
 
 <div>
-<img src="images/kits_logo.png" alt="KITS" style="width:150px;height:auto;" />
+<img src="images/kits_logo.png" alt="KITS" style="width:150px;height:auto;margin-right:50px;" />
 <img src="images/kriss_logo.jpg" alt="KRISS" style="width:150px;height:auto;"  />
 </div>
 
