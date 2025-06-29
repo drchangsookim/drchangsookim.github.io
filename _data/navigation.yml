@@ -8,8 +8,8 @@ main:
   - title: "소개"
     url: /about/
 
-  - title: "이력서"
-    url: /cv/        
+  - title: "프로필"
+    url: /profile/        
 
   - title: "Publications"
     url: /publications/
