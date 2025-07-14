@@ -27,7 +27,7 @@ author:
   bio              : "Scientific advisor at Korea ITS, expert in all things X-ray diffraction related"
   location         : # "Seoul, Korea"
   employer         : "Korea ITS"
-  uri              : <img src="images/kits_logo.png" alt="KITS" style="width:150px;height:auto;margin-right:50px;" />
+  uri              : # URL
   email            : "changsoo.kim@koreaits.com" 
 
   # Academic websites
