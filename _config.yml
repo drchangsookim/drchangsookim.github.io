@@ -239,13 +239,20 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
   - scope:
-      path: ""
-      type: pages
+      path: "en"
     values:
+      lang: "en"
+      permalink: "/en/:path"
       layout: single
       author_profile: true
+  # _pages
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
   # _teaching
   - scope:
       path: ""
