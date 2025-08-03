@@ -281,6 +281,17 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # apk addition
+  - scope:
+      path: "en"
+    values:
+      lang: "en"
+      permalink: "/en/:path/"
+  - scope:
+      path: "ko"
+    values:
+      lang: "ko"
+      permalink: "/ko/:path/"
 
 
 # Sass/SCSS
