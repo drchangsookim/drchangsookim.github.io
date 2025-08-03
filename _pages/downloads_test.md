@@ -7,8 +7,6 @@ redirect_from:
 
 # Course Materials
 
-{% assign courses = site.data.downloads_test | keys %}
-
 
 {% for course_pair in site.data.downloads_test %}
   {% assign course_name = course_pair[0] %}
