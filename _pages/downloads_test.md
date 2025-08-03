@@ -7,12 +7,14 @@ redirect_from:
 
 # Course Materials
 
+{% assign courses = site.data.downloads_test | keys %}
+
 <ul>
-{% for course_name in site.data.downloads_test %}
-  <li>
-    <a href="/downloads_test/{{ course_name | slugify }}/">
-      {{ course_name }}
-    </a>
-  </li>
-{% endfor %}
+  {% for course_name in courses %}
+    <li>
+      <a href="/downloads_test/{{ course_name | slugify }}/">
+        {{ course_name }}
+      </a>
+    </li>
+  {% endfor %}
 </ul>
