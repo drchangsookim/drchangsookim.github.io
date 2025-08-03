@@ -9,8 +9,10 @@ permalink: /file-materials/
 
 Below are all the courses for which materials are available. Click one to see its files:
 
+{% assign courses = site.data.downloads_test | keys %}
+
 <ul>
-  {% for course_name in site.data.downloads_test %}
+  {% for course_name in courses %}
     <li>
       <a href="/file-materials/{{ course_name | slugify }}/">
         {{ course_name }}
@@ -18,4 +20,3 @@ Below are all the courses for which materials are available. Click one to see it
     </li>
   {% endfor %}
 </ul>
-
