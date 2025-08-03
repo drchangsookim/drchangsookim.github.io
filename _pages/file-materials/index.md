@@ -9,7 +9,7 @@ permalink: /file-materials/
 
 Below are all the courses for which materials are available. Click one to see its files:
 
-{% assign courses = site.data.downloads_test | keys %}
+{% assign courses = site.data.file_materials | keys %}
 
 <ul>
   {% for course_name in courses %}
