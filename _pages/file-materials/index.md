@@ -14,7 +14,7 @@ Below are all the courses for which materials are available. Click one to see it
 <ul>
   {% for course_name in courses %}
     <li>
-      <a href="/file-materials/{{ course_name | slugify }}/">
+      <a href="/downloads/{{ course_name | slugify }}/">
         {{ course_name }}
       </a>
     </li>
