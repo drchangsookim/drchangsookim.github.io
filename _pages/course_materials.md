@@ -6,25 +6,31 @@ permalink: /course-materials/
 
 # Course Materials
 
-Below are all the semesters for which materials are available. Click to expand each one:
+Below are all the semesters with materials. Click to expand each one:
 
 {% comment %}
-  Turn our data‐hash into a list of keys (strings)
+  1) Extract just the keys (semester names) as an array of strings
 {% endcomment %}
-{% assign semesters = site.data.course_materials | keys %}
+{% assign semester_names = site.data.course_materials | keys %}
 
-{% for sem in semesters %}
+{% for semester in semester_names %}
 <details>
-  <summary><strong>{{ sem }}</strong></summary>
+  <summary><strong>{{ semester }}</strong></summary>
 
-  {% assign lectures = site.data.course_materials[sem] %}
+  {% comment %}
+    2) Look up the lectures array by that string key
+  {% endcomment %}
+  {% assign lectures = site.data.course_materials[semester] %}
+
   <ul>
     {% for lec in lectures %}
       <li>
         <strong>Lecture {{ lec.number }}: {{ lec.title }}</strong>
         <ul>
           {% for f in lec.files %}
-            <li><a href="{{ f.url }}">{{ f.name }}</a></li>
+            <li>
+              <a href="{{ f.url }}">{{ f.name }}</a>
+            </li>
           {% endfor %}
         </ul>
       </li>
