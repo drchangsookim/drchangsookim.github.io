@@ -1,8 +1,8 @@
 ---
-title: "다운로드"
-permalink: /downloads/
+title: "자료실"
+permalink: /resources/
 redirect_from:
-  - /downloads
+  - /resources
 ---
 
 <!-- <a href="https://drive.google.com/uc?export=download&id=1gzBi1gEQ8X1Wdj-0QXvAkmDHZKn9c4n6" download>20250627 평가 자료</a> -->
