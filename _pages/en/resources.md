@@ -12,6 +12,8 @@ redirect_from:
 <!-- <iframe allow-transparency="false" style="background-color: Snow" src="https://drive.google.com/embeddedfolderview?id=1F1XcSq5rT6OncfndN9WMHMdLuPRc0DHl#list" width="800" height="200" frameborder="0"></iframe> -->
 
 
-<iframe id="pdfContent" src="https://drive.google.com/file/d/1lf0aja1WMbV2k6kCsjBEsBOtykef4eb6/view?usp=drive_link" type="application/pdf"></iframe>
+<iframe id="pdfContent" src="https://drive.google.com/file/d/1lf0aja1WMbV2k6kCsjBEsBOtykef4eb6/view?usp=sharing" type="application/pdf"></iframe>
 <!-- Alternatively, you can use the <embed> tag: -->
 <!-- <embed id="pdfContent" src="path/to/your/document.pdf" type="application/pdf"> -->
+
+
