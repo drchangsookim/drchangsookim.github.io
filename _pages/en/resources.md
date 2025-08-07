@@ -10,3 +10,8 @@ redirect_from:
 <!-- <iframe src="https://drive.google.com/embeddedfolderview?id=1nnIgKeU0CDWAOczkX0OAjyWTwI69BcHk#grid" style="width: 100%; height: 600px; border: 0;"></iframe> -->
 
 <iframe allow-transparency="false" style="background-color: Snow" src="https://drive.google.com/embeddedfolderview?id=1F1XcSq5rT6OncfndN9WMHMdLuPRc0DHl#list" width="800" height="200" frameborder="0"></iframe>
+
+
+<iframe id="pdfContent" src="files/paper1.pdf" type="application/pdf"></iframe>
+<!-- Alternatively, you can use the <embed> tag: -->
+<!-- <embed id="pdfContent" src="path/to/your/document.pdf" type="application/pdf"> -->
