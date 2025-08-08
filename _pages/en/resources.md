@@ -27,7 +27,7 @@ redirect_from:
 </div> -->
 
 <object data="/files/1차-XRD_기본_이해-김창수.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="/files/1차-XRD_기본_이해-김창수.pdf">
+    <embed src="/files/1차-XRD_기본_이해-김창수.pdf#toolbar=0">
         <!-- <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p> -->
     </embed>
 </object>
