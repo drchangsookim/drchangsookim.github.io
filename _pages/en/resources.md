@@ -14,5 +14,8 @@ redirect_from:
 <!-- 
 <iframe id="pdfContent" src="https://drive.google.com/file/d/1lf0aja1WMbV2k6kCsjBEsBOtykef4eb6/view?usp=sharing" width:100%; type="application/pdf"></iframe> -->
 
+<body oncontextmenu="return false;">
+    <iframe src="/files/1차-XRD_기본_이해-김창수.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
+</body>
 
-<iframe src="/files/1차-XRD_기본_이해-김창수.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
+
