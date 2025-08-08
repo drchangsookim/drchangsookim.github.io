@@ -18,12 +18,16 @@ redirect_from:
     <iframe src="/files/1차-XRD_기본_이해-김창수.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
 </body> -->
 
-<div style="position: relative; width:130%; height:600px;">
+<!-- <div style="position: relative; width:130%; height:600px;">
   <iframe src="/files/1차-XRD_기본_이해-김창수.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
   <div
     style="position:absolute; top:0; left:0; right:0; bottom:0;"
     oncontextmenu="return false;"
   ></div>
-</div>
+</div> -->
 
-
+<object data="/files/1차-XRD_기본_이해-김창수.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/files/1차-XRD_기본_이해-김창수.pdf">
+        <!-- <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p> -->
+    </embed>
+</object>
