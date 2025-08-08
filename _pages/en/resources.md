@@ -14,9 +14,13 @@ redirect_from:
 <!-- 
 <iframe id="pdfContent" src="https://drive.google.com/file/d/1lf0aja1WMbV2k6kCsjBEsBOtykef4eb6/view?usp=sharing" width:100%; type="application/pdf"></iframe> -->
 
-<!-- <body oncontextmenu="return false;">
-    <iframe src="/files/1차-XRD_기본_이해-김창수.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
-</body> -->
+<!-- <body oncontextmenu="return false;"> -->
+<iframe 
+src="{{ '/pdfjs/web/viewer.html' | relative_url }}?file={{ '/files/1차-XRD_기본_이해-김창수.pdf' | relative_url }}#zoom=page-width"
+width="100%" height="600px" style="border: none;"></iframe>
+<!-- </body> -->
+<!-- src="/files/1차-XRD_기본_이해-김창수.pdf#toolbar=0"  -->
+
 
 <!-- <div style="position: relative; width:130%; height:600px;">
   <iframe src="/files/1차-XRD_기본_이해-김창수.pdf#toolbar=0" width="100%" height="600px" style="border: none;"></iframe>
@@ -26,8 +30,8 @@ redirect_from:
   ></div>
 </div> -->
 
-<object data="/files/1차-XRD_기본_이해-김창수.pdf" type="application/pdf" width="700px" height="700px">
+<!-- <object data="/files/1차-XRD_기본_이해-김창수.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/files/1차-XRD_기본_이해-김창수.pdf#toolbar=0">
         <!-- <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p> -->
     </embed>
-</object>
+</object> -->
