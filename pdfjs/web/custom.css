@@ -1,9 +1,0 @@
-/* Hide toolbar buttons */
-#download, #secondaryDownload,
-#print, #secondaryPrint,
-#openFile, #secondaryOpenFile {
-  display: none !important;
-}
-
-/* (optional) Hide the entire secondary menu trigger */
-#secondaryToolbarToggle { display: none !important; }
