@@ -4,7 +4,7 @@ permalink: /resources/
 redirect_from:
   - /resources
 ---
-
+<body>
 <iframe src="/files/1차-XRD_기본_이해-김창수.pdf#toolbar=0" width="120%" height="600px" style="border: none;"></iframe>
 
 <!-- <script>
@@ -14,3 +14,15 @@ redirect_from:
            }, 100);
         });
 </script>> -->
+
+<script>
+        document.getElementById('iframe').addEventListener('load', function() {
+          const iframeDocument = this.contentDocument;
+          if (iframeDocument) {
+            iframeDocument.addEventListener('contextmenu', function(e) {
+              e.preventDefault();
+            });
+          }
+        });
+    </script>
+</body>
