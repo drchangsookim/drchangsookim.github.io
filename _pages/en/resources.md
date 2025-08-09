@@ -15,7 +15,7 @@ redirect_from:
         });
 </script>> -->
 
-<script>
+<!-- <script>
         document.getElementById('iframe').addEventListener('load', function() {
           const iframeDocument = this.contentDocument;
           if (iframeDocument) {
@@ -24,5 +24,19 @@ redirect_from:
             });
           }
         });
-    </script>
+    </script> -->
+<script>
+  document.addEventListener('contextmenu', (e) => {
+    const inPdf =
+      e.target.closest('#viewerContainer') || e.target.closest('.pdfViewer');
+    if (inPdf) e.preventDefault();
+  }, { capture: true });
+
+  document.addEventListener('keydown', (e) => {
+    const k = (e.key || '').toLowerCase();
+    if ((e.metaKey || e.ctrlKey) && (k === 'p' || k === 's')) {
+      e.preventDefault(); e.stopPropagation();
+    }
+  }, { capture: true });
+</script>
 </body>
