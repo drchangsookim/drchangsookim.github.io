@@ -32,7 +32,7 @@ See https://github.com/adobe-type-tools/cmap-resources
 <script src="../build/pdf.mjs" type="module"></script>
 
     <link rel="stylesheet" href="viewer.css">
-    <!-- <link rel="stylesheet" href="custom.css"> -->
+    <link rel="stylesheet" href="custom.css">
 
   <script src="viewer.mjs" type="module"></script>
   </head>
@@ -281,7 +281,7 @@ See https://github.com/adobe-type-tools/cmap-resources
                     <span data-l10n-id="pdfjs-print-button-label"></span>
                   </button>
 
-                  <button id="downloadButton" display: none; class="toolbarButton" type="button" tabindex="0" data-l10n-id="pdfjs-save-button">
+                  <button id="downloadButton" class="toolbarButton" type="button" tabindex="0" data-l10n-id="pdfjs-save-button">
                     <span data-l10n-id="pdfjs-save-button-label"></span>
                   </button>
                 </div>
@@ -303,7 +303,7 @@ See https://github.com/adobe-type-tools/cmap-resources
                           <span data-l10n-id="pdfjs-print-button-label"></span>
                         </button>
 
-                        <button id="secondaryDownload" display: none; class="toolbarButton labeled" type="button" tabindex="0" data-l10n-id="pdfjs-save-button">
+                        <button id="secondaryDownload" class="toolbarButton labeled" type="button" tabindex="0" data-l10n-id="pdfjs-save-button">
                           <span data-l10n-id="pdfjs-save-button-label"></span>
                         </button>
 
@@ -765,5 +765,29 @@ See https://github.com/adobe-type-tools/cmap-resources
 
     </div> <!-- outerContainer -->
     <div id="printContainer"></div>
+
+    <script>
+  // Block context menu anywhere in the PDF viewer page
+  document.addEventListener('contextmenu', (e) => {
+    e.preventDefault();
+  }, { capture: true });
+
+  // Disable common save/print shortcuts
+  document.addEventListener('keydown', (e) => {
+    const k = (e.key || '').toLowerCase();
+    const meta = e.metaKey || e.ctrlKey;
+    if (meta && (k === 's' || k === 'p')) {
+      e.preventDefault();
+      e.stopPropagation();
+    }
+  }, { capture: true });
+
+  // Belt-and-suspenders: remove the buttons if present (keyboard access etc.)
+  const kill = id => { const el = document.getElementById(id); if (el) el.remove(); };
+  kill('download'); kill('secondaryDownload');
+  kill('print');    kill('secondaryPrint');
+  kill('openFile'); kill('secondaryOpenFile');
+</script>
+
   </body>
 </html>
