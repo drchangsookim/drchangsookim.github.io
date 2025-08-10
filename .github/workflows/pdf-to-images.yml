@@ -48,7 +48,7 @@ jobs:
         
         # Find all PDF files in /files/ directory
         if find files -name "*.pdf" -type f -print | grep -q .; then
-          find files -name "*.pdf" -type f | while read pdf_file; do
+          while read pdf_file; do
             echo "Processing: $pdf_file"
             
             # Test if PDF is valid
@@ -96,7 +96,7 @@ jobs:
             else
               echo "❌ Failed to convert $pdf_file"
             fi
-          done
+          done < <(find files -name "*.pdf" -type f)
         else
           echo "ℹ️  No PDF files found in files directory"
         fi
