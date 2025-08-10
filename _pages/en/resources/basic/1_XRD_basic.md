@@ -3,6 +3,7 @@ title: "1차 - XRD 기본"
 permalink: /resources/basic/1_XRD_basic/
 ---
 
+<body oncontextmenu="return false;">
 <div class="pdf-gallery" id="1_XRD_basic-gallery">
   <img src="/images/pdf-pages/1_XRD_basic/page-01.png" alt="1_XRD_basic - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
   <img src="/images/pdf-pages/1_XRD_basic/page-02.png" alt="1_XRD_basic - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
@@ -84,3 +85,4 @@ permalink: /resources/basic/1_XRD_basic/
   <img src="/images/pdf-pages/1_XRD_basic/page-78.png" alt="1_XRD_basic - page-78.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
   <img src="/images/pdf-pages/1_XRD_basic/page-79.png" alt="1_XRD_basic - page-79.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
 </div>
+</body>
