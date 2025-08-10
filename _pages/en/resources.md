@@ -25,4 +25,4 @@ redirect_from:
 
 | <!-- -->          | <!-- -->   | <!-- -->                                               |
 | --------        | ------ | ------------------------------------------------------------ |
-| XRT 원리 및 응용    | [내용및설명](/resources/xrt/XRT_principle_info/)   | [자료화일](/resources/xrt/XRT_principle/)                      |
+| XRT 원리 및 응용       | [내용및설명](/resources/xrt/XRT_principle_info/)   | [자료화일](/resources/xrt/XRT_principle/)                      |
