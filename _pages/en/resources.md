@@ -13,16 +13,16 @@ redirect_from:
 | 2차 - 저각입사 XRD    | [내용및설명](/resources/basic/2_XRD_low_angle_info/)   | [자료화일](/resources/basic/2_XRD_low_angle/)                          |
 | 3차 - 고분해능 XRD     | [내용및설명](/resources/basic/3_high_res_XRD_info/)   | [자료화일](/resources/basic/3_high_res_XRD/)                          |
 | 4차A - Scherrer Equation     | [내용및설명](/resources/basic/4_A-Scherrer_info/)   | [자료화일](/resources/basic/4_A-Scherrer/)                          |
-| 4차B - Si(002) 및 Si(113) 피크     | [내용및설명](/resources/basic/4_B-Si_002___113__peak_info/)   | [자료화일](/resources/basic/4_B-Si_002___113__peak_info/)                          |
+| 4차B - Si(002) 및 Si(113) 피크     | [내용및설명](/resources/basic/4_B-Si_002___113__peak_info/)   | [자료화일](/resources/basic/4_B-Si_002___113__peak/)                          |
 
 ## XRD 박막 분석법 이해 및 응용
 
-| 제목            | 내용및설명   | 자료화일                                                       |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| <!-- -->          | <!-- -->   | <!-- -->                                               |
+| --------        | ------ | ------------------------------------------------------------ |
+| XRD 박막분석법 이해및응용    | [내용및설명](/resources/thin_film/XRD_thin_film_assay_info/)   | [자료화일](/resources/thin_film/XRD_thin_film_assay/)                          |
 
 ## X-ray Topography
 
-| 제목            | 내용및설명   | 자료화일                                                       |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| <!-- -->          | <!-- -->   | <!-- -->                                               |
+| --------        | ------ | ------------------------------------------------------------ |
+| XRT 원리 및 응용    | [내용및설명](/resources/xrt/XRT_principle_info/)   | [자료화일](/resources/xrt/XRT_principle/)                          |

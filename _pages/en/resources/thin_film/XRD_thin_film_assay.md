@@ -1,0 +1,77 @@
+---
+title: "XRD 박막분석법 이해및응용"
+permalink: /resources/thin_film/XRD_thin_film_assay/
+---
+
+<body oncontextmenu="return false;">
+<div class="pdf-gallery" id="XRD_thin_film_analysis-gallery">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-01.png" alt="XRD_thin_film_analysis - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-02.png" alt="XRD_thin_film_analysis - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-03.png" alt="XRD_thin_film_analysis - page-03.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-04.png" alt="XRD_thin_film_analysis - page-04.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-05.png" alt="XRD_thin_film_analysis - page-05.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-06.png" alt="XRD_thin_film_analysis - page-06.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-07.png" alt="XRD_thin_film_analysis - page-07.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-08.png" alt="XRD_thin_film_analysis - page-08.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-09.png" alt="XRD_thin_film_analysis - page-09.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-10.png" alt="XRD_thin_film_analysis - page-10.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-11.png" alt="XRD_thin_film_analysis - page-11.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-12.png" alt="XRD_thin_film_analysis - page-12.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-13.png" alt="XRD_thin_film_analysis - page-13.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-14.png" alt="XRD_thin_film_analysis - page-14.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-15.png" alt="XRD_thin_film_analysis - page-15.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-16.png" alt="XRD_thin_film_analysis - page-16.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-17.png" alt="XRD_thin_film_analysis - page-17.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-18.png" alt="XRD_thin_film_analysis - page-18.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-19.png" alt="XRD_thin_film_analysis - page-19.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-20.png" alt="XRD_thin_film_analysis - page-20.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-21.png" alt="XRD_thin_film_analysis - page-21.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-22.png" alt="XRD_thin_film_analysis - page-22.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-23.png" alt="XRD_thin_film_analysis - page-23.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-24.png" alt="XRD_thin_film_analysis - page-24.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-25.png" alt="XRD_thin_film_analysis - page-25.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-26.png" alt="XRD_thin_film_analysis - page-26.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-27.png" alt="XRD_thin_film_analysis - page-27.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-28.png" alt="XRD_thin_film_analysis - page-28.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-29.png" alt="XRD_thin_film_analysis - page-29.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-30.png" alt="XRD_thin_film_analysis - page-30.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-31.png" alt="XRD_thin_film_analysis - page-31.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-32.png" alt="XRD_thin_film_analysis - page-32.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-33.png" alt="XRD_thin_film_analysis - page-33.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-34.png" alt="XRD_thin_film_analysis - page-34.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-35.png" alt="XRD_thin_film_analysis - page-35.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-36.png" alt="XRD_thin_film_analysis - page-36.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-37.png" alt="XRD_thin_film_analysis - page-37.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-38.png" alt="XRD_thin_film_analysis - page-38.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-39.png" alt="XRD_thin_film_analysis - page-39.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-40.png" alt="XRD_thin_film_analysis - page-40.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-41.png" alt="XRD_thin_film_analysis - page-41.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-42.png" alt="XRD_thin_film_analysis - page-42.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-43.png" alt="XRD_thin_film_analysis - page-43.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-44.png" alt="XRD_thin_film_analysis - page-44.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-45.png" alt="XRD_thin_film_analysis - page-45.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-46.png" alt="XRD_thin_film_analysis - page-46.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-47.png" alt="XRD_thin_film_analysis - page-47.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-48.png" alt="XRD_thin_film_analysis - page-48.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-49.png" alt="XRD_thin_film_analysis - page-49.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-50.png" alt="XRD_thin_film_analysis - page-50.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-51.png" alt="XRD_thin_film_analysis - page-51.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-52.png" alt="XRD_thin_film_analysis - page-52.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-53.png" alt="XRD_thin_film_analysis - page-53.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-54.png" alt="XRD_thin_film_analysis - page-54.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-55.png" alt="XRD_thin_film_analysis - page-55.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-56.png" alt="XRD_thin_film_analysis - page-56.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-57.png" alt="XRD_thin_film_analysis - page-57.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-58.png" alt="XRD_thin_film_analysis - page-58.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-59.png" alt="XRD_thin_film_analysis - page-59.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-60.png" alt="XRD_thin_film_analysis - page-60.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-61.png" alt="XRD_thin_film_analysis - page-61.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-62.png" alt="XRD_thin_film_analysis - page-62.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-63.png" alt="XRD_thin_film_analysis - page-63.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-64.png" alt="XRD_thin_film_analysis - page-64.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-65.png" alt="XRD_thin_film_analysis - page-65.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-66.png" alt="XRD_thin_film_analysis - page-66.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-67.png" alt="XRD_thin_film_analysis - page-67.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRD_thin_film_analysis/page-68.png" alt="XRD_thin_film_analysis - page-68.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>
+</body>
