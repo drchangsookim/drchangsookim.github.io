@@ -7,8 +7,8 @@ redirect_from:
 
 ## XRD 기본 및 박막 측정법 이해
 
-<!-- | 제목          | 내용및설명   | 자료화일                                                       |
-| --------        | ------ | ------------------------------------------------------------ | -->
+| <!-- -->          | <!-- -->   | <!-- -->                                               |
+| --------        | ------ | ------------------------------------------------------------ |
 | 1차 - XRD 기본      | [내용및설명](/resources/basic/1_XRD_basic_info/)   | [자료화일](/resources/basic/1_XRD_basic/)                          |
 | 2차 - 저각입사 XRD    | [내용및설명](/resources/basic/2_XRD_low_angle_info/)   | [자료화일](/resources/basic/2_XRD_low_angle/)                          |
 | 3차 - 고분해능 XRD     | [내용및설명](/resources/basic/3_high_res_XRD_info/)   | [자료화일](/resources/basic/3_high_res_XRD/)                          |
