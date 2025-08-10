@@ -44,4 +44,4 @@ redirect_from:
 </script>
 </body> -->
 
-{% include pdf_images.html id="1차-XRD_기본_이해-김창수" %}
+
