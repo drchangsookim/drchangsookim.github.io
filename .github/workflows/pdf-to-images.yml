@@ -150,6 +150,15 @@ jobs:
     - name: Commit and push changes
       if: env.CONVERTED_ANY == 'true'
       run: |
+        # Debug: Show what files were created
+        echo "=== Checking what files exist ==="
+        find images -name "*.png" -type f | head -10 || echo "No PNG files found"
+        ls -la pdf-embed-snippets.md 2>/dev/null || echo "pdf-embed-snippets.md not found"
+        
+        # Debug: Show git status
+        echo "=== Git status ==="
+        git status --porcelain
+        
         # Check if there are actually changes to commit
         if git diff --quiet && git diff --cached --quiet; then
           echo "No changes to commit"
@@ -158,7 +167,11 @@ jobs:
         
         git config --local user.email "action@github.com"
         git config --local user.name "PDF Converter Action"
+        
+        # Add files explicitly and show what gets added
+        echo "=== Adding files ==="
         git add images/pdf-pages pdf-embed-snippets.md
+        git status --porcelain
         
         # Only commit if there are staged changes
         if git diff --cached --quiet; then
