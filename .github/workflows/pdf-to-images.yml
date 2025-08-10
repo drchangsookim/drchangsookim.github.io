@@ -159,8 +159,8 @@ jobs:
         echo "=== Git status ==="
         git status --porcelain
         
-        # Check if there are actually changes to commit
-        if git diff --quiet && git diff --cached --quiet; then
+        # Check if there are untracked files or changes to commit
+        if [[ -z $(git status --porcelain) ]]; then
           echo "No changes to commit"
           exit 0
         fi
