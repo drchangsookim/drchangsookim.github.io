@@ -30,3 +30,14 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 <!-- end custom head snippets -->
+
+
+<script>
+// Disable right-click on PDF page images
+document.addEventListener('DOMContentLoaded', function() {
+    // Disable right-click on all images in pdf-gallery divs
+    document.querySelectorAll('.pdf-gallery img').forEach(function(img) {
+        img.oncontextmenu = function() { return false; };
+    });
+});
+</script>
