@@ -1,5 +1,8 @@
 ---
-title: "1차-XRD 기본: 내용및설명"
+title: "1차 - XRD 기본: 내용및설명"
 permalink: /resources/basic/1_XRD_basic_info/
 ---
 
+<div class="pdf-gallery" id="1_XRD_basic_info-gallery">
+  <img src="/images/pdf-pages/1_XRD_basic_info/page-01.png" alt="1_XRD_basic_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>

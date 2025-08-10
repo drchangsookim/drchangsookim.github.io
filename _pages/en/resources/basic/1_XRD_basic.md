@@ -1,10 +1,9 @@
 ---
-title: "1차-XRD 기본"
+title: "1차 - XRD 기본"
 permalink: /resources/basic/1_XRD_basic/
 ---
 
 <div class="pdf-gallery" id="1_XRD_basic-gallery">
-  <h3>1차 - XRD 기본</h3>
   <img src="/images/pdf-pages/1_XRD_basic/page-01.png" alt="1_XRD_basic - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
   <img src="/images/pdf-pages/1_XRD_basic/page-02.png" alt="1_XRD_basic - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
   <img src="/images/pdf-pages/1_XRD_basic/page-03.png" alt="1_XRD_basic - page-03.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
