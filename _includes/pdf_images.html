@@ -1,0 +1,48 @@
+{%- comment -%}
+Usage:
+  {% include pdf_images.html id:"file1" %}   # if your PDF is /files/file1.pdf
+{%- endcomment -%}
+
+{%- assign pdf_id = include.id -%}
+{%- assign folder = '/assets/pdfs/' | append: pdf_id | append: '/' -%}
+{%- assign pages = site.static_files
+    | where_exp: 'f', 'f.path contains folder'
+    | sort: 'name' -%}
+
+<div id="pdf-{{ pdf_id }}" class="pdf-images no-select" oncontextmenu="return false;">
+  {%- for p in pages -%}
+    <img
+      src="{{ p.path | relative_url }}"
+      alt="Page {{ forloop.index }}"
+      loading="lazy"
+      class="pdf-img"
+      draggable="false"
+      decoding="async">
+  {%- endfor -%}
+</div>
+
+<style>
+  .pdf-images { max-width: 100%; }
+  .pdf-images .pdf-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0 0 1rem;
+  }
+  /* discourage saving/selection (deterrent only) */
+  .no-select, .no-select * {
+    user-select: none;
+    -webkit-user-drag: none;
+    -webkit-touch-callout: none;
+  }
+</style>
+<script>
+  // Block common save/print shortcuts within this page (deterrent)
+  document.addEventListener('keydown', e => {
+    const k = (e.key||'').toLowerCase();
+    if ((e.ctrlKey || e.metaKey) && (k === 's' || k === 'p')) {
+      e.preventDefault(); e.stopPropagation();
+    }
+  }, { capture: true });
+</script>
+

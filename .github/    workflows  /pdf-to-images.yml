@@ -1,0 +1,61 @@
+name: PDF to images
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'files/**/*.pdf'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    # avoid infinite loops on the bot's own commit
+    if: ${{ github.actor != 'github-actions[bot]' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+
+      - name: Install converters
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils imagemagick
+
+      - name: Convert /files/*.pdf to PNG pages
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          mkdir -p assets/pdfs
+          for pdf in files/*.pdf; do
+            base="$(basename "$pdf" .pdf)"
+            outdir="assets/pdfs/$base"
+            mkdir -p "$outdir"
+
+            # Render @ 200 DPI; tweak -r for quality vs size
+            pdftoppm -png -r 200 "$pdf" "$outdir/page"
+
+            # Pad page numbers so sorting works (page-001.png, page-002.png, …)
+            pages=$(pdfinfo "$pdf" | awk '/^Pages:/ {print $2}')
+            for ((n=1; n<=pages; n++)); do
+              src="$outdir/page-$n.png"
+              printf -v pad "%03d" "$n"
+              dst="$outdir/page-$pad.png"
+              [ -f "$src" ] && mv "$src" "$dst"
+            done
+
+            # Optional: lightly compress (comment out if you want lossless originals)
+            mogrify -strip -quality 88 "$outdir"/page-*.png
+          done
+
+      - name: Commit rendered images
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/pdfs
+          git commit -m "chore: render PDFs in /files to images [skip ci]" || echo "No changes"
+          git push
+
