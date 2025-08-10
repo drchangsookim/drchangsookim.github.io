@@ -43,7 +43,8 @@ redirect_from:
   }, { capture: true });
 </script>
 </body> -->
-
+<body oncontextmenu="return false;">
+    <!-- Your web page content here -->
 <div class="pdf-gallery" id="1_-XRD______-___-gallery">
   <h3>1_-XRD______-___</h3>
   <img src="/images/pdf-pages/1_-XRD______-___/page-01.png" alt="1_-XRD______-___ - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
@@ -126,3 +127,4 @@ redirect_from:
   <img src="/images/pdf-pages/1_-XRD______-___/page-78.png" alt="1_-XRD______-___ - page-78.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
   <img src="/images/pdf-pages/1_-XRD______-___/page-79.png" alt="1_-XRD______-___ - page-79.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
 </div>
+</body>
