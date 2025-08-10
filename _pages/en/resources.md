@@ -9,7 +9,7 @@ redirect_from:
 
 | 제목          | 내용및설명   | 자료화일                                                       |
 | --------        | ------ | ------------------------------------------------------------ |
-| [1차 - XRD 기본](/resources/basic/1_XRD_basic/)      | 2016   | Description of the item in the list                          |
+| 1차 - XRD 기본      | [내용및설명](/resources/basic/1_XRD_basic_info/)   | [자료화일](/resources/basic/1_XRD_basic/)                          |
 | [2차 - 저각입사 XRD](#)    | 2019   | Description of the item in the list                          |
 | [3차 - 고분해능 XRD](#)     | 2022   | Description of the item in the list                          |
 | [4차A - Scherrer Eq](#)     | 2022   | Description of the item in the list                          |
