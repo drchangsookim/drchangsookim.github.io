@@ -28,6 +28,18 @@ jobs:
     
     - name: Convert PDFs to images
       run: |
+        # Debug: Check if files directory exists
+        echo "Checking for files directory..."
+        if [ ! -d "files" ]; then
+          echo "❌ No 'files' directory found!"
+          ls -la
+          exit 1
+        fi
+        
+        # Debug: List files in directory
+        echo "Contents of files directory:"
+        find files -type f -name "*.pdf" || echo "No PDF files found in files directory"
+        
         # Create images directory if it doesn't exist
         mkdir -p images/pdf-pages
         
@@ -35,34 +47,57 @@ jobs:
         converted_any=false
         
         # Find all PDF files in /files/ directory
-        find files -name "*.pdf" -type f | while read pdf_file; do
-          echo "Processing: $pdf_file"
-          
-          # Get filename without extension and path
-          filename=$(basename "$pdf_file" .pdf)
-          
-          # Create subdirectory for this PDF's pages
-          output_dir="images/pdf-pages/$filename"
-          mkdir -p "$output_dir"
-          
-          # Convert PDF to PNG images (one per page)
-          pdftoppm -png -r 150 "$pdf_file" "$output_dir/page"
-          
-          # Rename files to have proper numbering (page-01.png, page-02.png, etc.)
-          cd "$output_dir"
-          for img in page-*.png; do
-            if [[ -f "$img" ]]; then
-              # Extract page number and pad with zeros
-              num=$(echo "$img" | sed 's/page-\([0-9]*\)\.png/\1/')
-              padded_num=$(printf "%02d" "$num")
-              mv "$img" "page-$padded_num.png"
+        if find files -name "*.pdf" -type f -print | grep -q .; then
+          find files -name "*.pdf" -type f | while read pdf_file; do
+            echo "Processing: $pdf_file"
+            
+            # Test if PDF is valid
+            if ! pdftoppm -f 1 -l 1 -png "$pdf_file" /tmp/test > /dev/null 2>&1; then
+              echo "❌ Error: $pdf_file appears to be corrupted or invalid"
+              continue
+            fi
+            
+            # Get filename without extension and path, sanitize for directory name
+            filename=$(basename "$pdf_file" .pdf)
+            # Replace problematic characters with underscores for directory names
+            safe_filename=$(echo "$filename" | sed 's/[^a-zA-Z0-9._-]/_/g')
+            
+            # Create subdirectory for this PDF's pages
+            output_dir="images/pdf-pages/$safe_filename"
+            mkdir -p "$output_dir"
+            
+            # Convert PDF to PNG images (one per page)
+            if pdftoppm -png -r 150 "$pdf_file" "$output_dir/page"; then
+              echo "✓ Successfully converted $pdf_file"
+              
+              # Rename files to have proper numbering (page-01.png, page-02.png, etc.)
+              cd "$output_dir"
+              for img in page-*.png; do
+                if [[ -f "$img" ]]; then
+                  # Extract page number and pad with zeros
+                  num=$(echo "$img" | sed 's/page-\([0-9]*\)\.png/\1/')
+                  padded_num=$(printf "%02d" "$num")
+                  new_name="page-$padded_num.png"
+                  
+                  # Only rename if the names are actually different
+                  if [[ "$img" != "$new_name" ]]; then
+                    mv "$img" "$new_name"
+                    echo "Renamed $img to $new_name"
+                  else
+                    echo "File $img already has correct naming"
+                  fi
+                fi
+              done
+              cd - > /dev/null
+              
+              converted_any=true
+            else
+              echo "❌ Failed to convert $pdf_file"
             fi
           done
-          cd - > /dev/null
-          
-          echo "✓ Converted $pdf_file to images in $output_dir"
-          converted_any=true
-        done
+        else
+          echo "ℹ️  No PDF files found in files directory"
+        fi
         
         # Set flag for next step
         echo "CONVERTED_ANY=$converted_any" >> $GITHUB_ENV
@@ -113,8 +148,21 @@ jobs:
     - name: Commit and push changes
       if: env.CONVERTED_ANY == 'true'
       run: |
+        # Check if there are actually changes to commit
+        if git diff --quiet && git diff --cached --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+        
         git config --local user.email "action@github.com"
         git config --local user.name "PDF Converter Action"
         git add images/pdf-pages pdf-embed-snippets.md
-        git commit -m "Auto-convert PDFs to images [skip ci]" || exit 0
+        
+        # Only commit if there are staged changes
+        if git diff --cached --quiet; then
+          echo "No staged changes to commit"
+          exit 0
+        fi
+        
+        git commit -m "Auto-convert PDFs to images [skip ci]"
         git push
