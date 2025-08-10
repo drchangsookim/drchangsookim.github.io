@@ -1,6 +1,6 @@
 ---
 title: "자료실"
-permalink: /resources/1_XRD_basic
+permalink: /resources/basic/1_XRD_basic/
 ---
 
 <body oncontextmenu="return false;">
