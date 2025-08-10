@@ -1,0 +1,120 @@
+# .github/workflows/pdf-to-images.yml
+name: Convert PDFs to Images
+
+on:
+  push:
+    paths:
+      - 'files/**/*.pdf'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  convert-pdfs:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+    
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y poppler-utils imagemagick
+        
+        # Configure ImageMagick to allow PDF processing
+        sudo sed -i 's/rights="none" pattern="PDF"/rights="read|write" pattern="PDF"/' /etc/ImageMagick-6/policy.xml
+    
+    - name: Convert PDFs to images
+      run: |
+        # Create images directory if it doesn't exist
+        mkdir -p images/pdf-pages
+        
+        # Track if any conversions happened
+        converted_any=false
+        
+        # Find all PDF files in /files/ directory
+        find files -name "*.pdf" -type f | while read pdf_file; do
+          echo "Processing: $pdf_file"
+          
+          # Get filename without extension and path
+          filename=$(basename "$pdf_file" .pdf)
+          
+          # Create subdirectory for this PDF's pages
+          output_dir="images/pdf-pages/$filename"
+          mkdir -p "$output_dir"
+          
+          # Convert PDF to PNG images (one per page)
+          pdftoppm -png -r 150 "$pdf_file" "$output_dir/page"
+          
+          # Rename files to have proper numbering (page-01.png, page-02.png, etc.)
+          cd "$output_dir"
+          for img in page-*.png; do
+            if [[ -f "$img" ]]; then
+              # Extract page number and pad with zeros
+              num=$(echo "$img" | sed 's/page-\([0-9]*\)\.png/\1/')
+              padded_num=$(printf "%02d" "$num")
+              mv "$img" "page-$padded_num.png"
+            fi
+          done
+          cd - > /dev/null
+          
+          echo "✓ Converted $pdf_file to images in $output_dir"
+          converted_any=true
+        done
+        
+        # Set flag for next step
+        echo "CONVERTED_ANY=$converted_any" >> $GITHUB_ENV
+    
+    - name: Generate HTML embed snippets
+      run: |
+        # Create a snippets file for easy copy-pasting
+        echo "# PDF Embed Snippets" > pdf-embed-snippets.md
+        echo "" >> pdf-embed-snippets.md
+        echo "Use these HTML snippets to embed your converted PDFs as image galleries:" >> pdf-embed-snippets.md
+        echo "" >> pdf-embed-snippets.md
+        
+        find images/pdf-pages -mindepth 1 -maxdepth 1 -type d | while read pdf_dir; do
+          pdf_name=$(basename "$pdf_dir")
+          echo "## $pdf_name" >> pdf-embed-snippets.md
+          echo "" >> pdf-embed-snippets.md
+          echo '```html' >> pdf-embed-snippets.md
+          echo '<div class="pdf-gallery" id="'$pdf_name'-gallery">' >> pdf-embed-snippets.md
+          echo '  <h3>'$pdf_name'</h3>' >> pdf-embed-snippets.md
+          
+          # List all pages for this PDF
+          ls "$pdf_dir"/page-*.png 2>/dev/null | sort | while read img_path; do
+            img_name=$(basename "$img_path")
+            echo '  <img src="/images/pdf-pages/'$pdf_name'/'$img_name'" alt="'$pdf_name' - '$img_name'" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">' >> pdf-embed-snippets.md
+          done
+          
+          echo '</div>' >> pdf-embed-snippets.md
+          echo '```' >> pdf-embed-snippets.md
+          echo "" >> pdf-embed-snippets.md
+        done
+        
+        # Add modal JavaScript
+        echo "## JavaScript for Image Modal (add to your layout)" >> pdf-embed-snippets.md
+        echo "" >> pdf-embed-snippets.md
+        echo '```javascript' >> pdf-embed-snippets.md
+        echo 'function openImageModal(src) {' >> pdf-embed-snippets.md
+        echo '  const modal = document.createElement("div");' >> pdf-embed-snippets.md
+        echo '  modal.style.cssText = "position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.9);z-index:1000;display:flex;justify-content:center;align-items:center;cursor:pointer";' >> pdf-embed-snippets.md
+        echo '  const img = document.createElement("img");' >> pdf-embed-snippets.md
+        echo '  img.src = src;' >> pdf-embed-snippets.md
+        echo '  img.style.cssText = "max-width:90%;max-height:90%;object-fit:contain";' >> pdf-embed-snippets.md
+        echo '  modal.appendChild(img);' >> pdf-embed-snippets.md
+        echo '  modal.onclick = () => document.body.removeChild(modal);' >> pdf-embed-snippets.md
+        echo '  document.body.appendChild(modal);' >> pdf-embed-snippets.md
+        echo '}' >> pdf-embed-snippets.md
+        echo '```' >> pdf-embed-snippets.md
+    
+    - name: Commit and push changes
+      if: env.CONVERTED_ANY == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "PDF Converter Action"
+        git add images/pdf-pages pdf-embed-snippets.md
+        git commit -m "Auto-convert PDFs to images [skip ci]" || exit 0
+        git push
