@@ -14,6 +14,7 @@ redirect_from:
 | 3차 - 고분해능 XRD     | [내용및설명](/resources/basic/3_high_res_XRD_info/)   | [자료화일](/resources/basic/3_high_res_XRD/)                          |
 | 4차A - Scherrer Equation     | [내용및설명](/resources/basic/4_A-Scherrer_info/)   | [자료화일](/resources/basic/4_A-Scherrer/)                          |
 | 4차B - Si(002) 및 Si(113) 피크     | [내용및설명](/resources/basic/4_B-Si_002___113__peak_info/)   | [자료화일](/resources/basic/4_B-Si_002___113__peak/)                          |
+| 교육일정및주제     |    |                           | [자료화일](/resources/basic/schedule_and_topics/)
 
 ## XRD 박막 분석법 이해 및 응용
 

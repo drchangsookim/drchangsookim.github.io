@@ -85,8 +85,4 @@ permalink: /resources/basic/1_XRD_basic/
   <img src="/images/pdf-pages/1_XRD_basic/page-78.png" alt="1_XRD_basic - page-78.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
   <img src="/images/pdf-pages/1_XRD_basic/page-79.png" alt="1_XRD_basic - page-79.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
 </div>
-<div
-    style="position:absolute; top:0; left:0; right:0; bottom:0;"
-    oncontextmenu="return false;"
-  ></div>
 </body>
