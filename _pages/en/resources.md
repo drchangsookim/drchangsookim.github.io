@@ -20,15 +20,15 @@ redirect_from:
 
 ## XRD 박막 분석법 이해 및 응용
 
-| <!-- -->          | <!-- -->   | <!-- -->                                               |
+| 제목          | 내용및설명   | 자료화일                                               |
 | --------        | ------ | ------------------------------------------------------------ |
-| XRD 박막분석법 이해및응용    | [내용및설명](/resources/thin_film/XRD_thin_film_assay_info/)   | [자료화일](/resources/thin_film/XRD_thin_film_assay/)                          |
+| XRD 박막분석법 이해및응용    | [:page_facing_up:](/resources/thin_film/XRD_thin_film_assay_info/)   | [:paperclip:](/resources/thin_film/XRD_thin_film_assay/)                          |
 
 ## X-ray Topography
 
-| <!-- -->          | <!-- -->   | <!-- -->                                               |
+| 제목          | 내용및설명   | 자료화일                                               |
 | --------        | ------ | ------------------------------------------------------------ |
-| XRT 원리 및 응용       | [내용및설명](/resources/xrt/XRT_principle_info/)   | [자료화일](/resources/xrt/XRT_principle/)                      |
+| XRT 원리 및 응용       | [:page_facing_up:](/resources/xrt/XRT_principle_info/)   | [:paperclip:](/resources/xrt/XRT_principle/)                      |
 
 ## 자료 Download
 
