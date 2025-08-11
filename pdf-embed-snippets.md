@@ -483,6 +483,15 @@ Use these HTML snippets to embed your converted PDFs as image galleries:
 </div>
 ```
 
+## basic_info
+
+```html
+<div class="pdf-gallery" id="basic_info-gallery">
+  <h3>basic_info</h3>
+  <img src="/images/pdf-pages/basic_info/page-01.png" alt="basic_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>
+```
+
 ## 4_B-Si_002___113__peak
 
 ```html
