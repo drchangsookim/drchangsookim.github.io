@@ -1,0 +1,34 @@
+site:
+  title: "Your Academic Website"
+  description: "Academic portfolio and research"
+  
+navigation:
+  home: "Home"
+  about: "About"
+  publications: "Publications"
+  talks: "Talks"
+  teaching: "Teaching"
+  portfolio: "Portfolio"
+  blog_posts: "Blog Posts"
+  cv: "CV"
+  guide: "Guide"
+
+about:
+  title: "About Me"
+  content: |
+    Welcome to my academic website. I am a researcher working in...
+    
+    ## Research Interests
+    - Machine Learning
+    - Natural Language Processing
+    - Computer Vision
+    
+    ## Education
+    - Ph.D. in Computer Science, University Name, 2020
+    - M.S. in Computer Science, University Name, 2016
+    
+contact:
+  title: "Contact Information"
+  email: "Email"
+  office: "Office"
+  phone: "Phone"

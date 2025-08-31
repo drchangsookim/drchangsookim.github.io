@@ -1,0 +1,34 @@
+site:
+  title: "당신의 학술 웹사이트"
+  description: "학술 포트폴리오 및 연구"
+  
+navigation:
+  home: "홈"
+  about: "소개"
+  publications: "논문"
+  talks: "발표"
+  teaching: "강의"
+  portfolio: "포트폴리오"
+  blog_posts: "블로그"
+  cv: "이력서"
+  guide: "가이드"
+
+about:
+  title: "소개"
+  content: |
+    학술 웹사이트에 오신 것을 환영합니다. 저는 다음 분야에서 연구하고 있습니다...
+    
+    ## 연구 관심사
+    - 기계학습
+    - 자연어처리
+    - 컴퓨터 비전
+    
+    ## 학력
+    - 컴퓨터공학 박사, 대학교명, 2020
+    - 컴퓨터공학 석사, 대학교명, 2016
+    
+contact:
+  title: "연락처 정보"
+  email: "이메일"
+  office: "사무실"
+  phone: "전화번호"

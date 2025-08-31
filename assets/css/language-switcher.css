@@ -1,0 +1,95 @@
+.language-switcher {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-left: auto;
+}
+
+.language-flags {
+  display: flex;
+  gap: 0.25rem;
+}
+
+.lang-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: white;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 0.875rem;
+}
+
+.lang-btn:hover {
+  background: #f5f5f5;
+  border-color: #999;
+}
+
+.lang-btn[aria-pressed="true"] {
+  background: #007cba;
+  color: white;
+  border-color: #005a87;
+}
+
+.flag {
+  font-size: 1.2em;
+}
+
+.lang-name {
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.language-text {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.lang-text-btn {
+  padding: 0.25rem 0.5rem;
+  border: none;
+  background: none;
+  cursor: pointer;
+  font-weight: 500;
+  color: #666;
+  transition: color 0.2s ease;
+}
+
+.lang-text-btn:hover {
+  color: #007cba;
+}
+
+.lang-text-btn[aria-pressed="true"] {
+  color: #007cba;
+  font-weight: 700;
+}
+
+/* Hide/show content based on language */
+[data-lang]:not([data-lang*=""]) {
+  display: none;
+}
+
+html[lang="en"] [data-lang*="en"],
+html[lang="ko"] [data-lang*="ko"] {
+  display: block;
+}
+
+html[lang="en"] [data-lang*="en"].inline,
+html[lang="ko"] [data-lang*="ko"].inline {
+  display: inline;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .lang-name {
+    display: none;
+  }
+  
+  .language-switcher {
+    gap: 0.25rem;
+  }
+}

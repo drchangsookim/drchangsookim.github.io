@@ -1,0 +1,9 @@
+supported_languages:
+  - code: "en"
+    name: "English"
+    flag: "🇺🇸"
+  - code: "ko" 
+    name: "한국어"
+    flag: "🇰🇷"
+
+default_language: "ko"
