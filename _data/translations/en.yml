@@ -1,17 +1,17 @@
-site:
-  title: "Your Academic Website"
-  description: "Academic portfolio and research"
+# site:
+#   title: "Your Academic Website"
+#   description: "Academic portfolio and research"
   
-navigation:
-  home: "Home"
-  about: "About"
-  publications: "Publications"
-  talks: "Talks"
-  teaching: "Teaching"
-  portfolio: "Portfolio"
-  blog_posts: "Blog Posts"
-  cv: "CV"
-  guide: "Guide"
+# navigation:
+#   home: "Home"
+#   about: "About"
+#   publications: "Publications"
+#   talks: "Talks"
+#   teaching: "Teaching"
+#   portfolio: "Portfolio"
+#   blog_posts: "Blog Posts"
+#   cv: "CV"
+#   guide: "Guide"
 
 about:
   title: "About Me"

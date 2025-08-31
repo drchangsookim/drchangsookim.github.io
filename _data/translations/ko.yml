@@ -1,17 +1,17 @@
-site:
-  title: "당신의 학술 웹사이트"
-  description: "학술 포트폴리오 및 연구"
+# site:
+#   title: "당신의 학술 웹사이트"
+#   description: "학술 포트폴리오 및 연구"
   
-navigation:
-  home: "홈"
-  about: "소개"
-  publications: "논문"
-  talks: "발표"
-  teaching: "강의"
-  portfolio: "포트폴리오"
-  blog_posts: "블로그"
-  cv: "이력서"
-  guide: "가이드"
+# navigation:
+#   home: "홈"
+#   about: "소개"
+#   publications: "논문"
+#   talks: "발표"
+#   teaching: "강의"
+#   portfolio: "포트폴리오"
+#   blog_posts: "블로그"
+#   cv: "이력서"
+#   guide: "가이드"
 
 about:
   title: "소개"
