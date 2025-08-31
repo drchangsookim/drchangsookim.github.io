@@ -25,6 +25,13 @@ redirect_from:
 <img src="images/kriss_logo.jpg" alt="KRISS" style="width:150px;height:auto;"  />
 </div> -->
 
+<!-- TEST -->
+<div data-lang="ko" class="show">
+  <p>🇰🇷 한국어 테스트</p>
+</div>
+<div data-lang="en">
+  <p>🇺🇸 English test</p>
+</div>
 
 
 
