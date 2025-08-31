@@ -42,9 +42,9 @@
 
 .language-switcher {
   position: fixed;
-  top: 15px;
-  right: 15px;
-  z-index: 1000;
+  top: 25px;
+  right: 25px;
+  z-index: 9999;
   display: flex;
   gap: 2px;
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
