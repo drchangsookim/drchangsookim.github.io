@@ -2,12 +2,138 @@
 
 Use these HTML snippets to embed your converted PDFs as image galleries:
 
-## XRD_thin_film_analysis_info
+## 4_B-Si_002___113__peak_info
 
 ```html
-<div class="pdf-gallery" id="XRD_thin_film_analysis_info-gallery">
-  <h3>XRD_thin_film_analysis_info</h3>
-  <img src="/images/pdf-pages/XRD_thin_film_analysis_info/page-01.png" alt="XRD_thin_film_analysis_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+<div class="pdf-gallery" id="4_B-Si_002___113__peak_info-gallery">
+  <h3>4_B-Si_002___113__peak_info</h3>
+  <img src="/images/pdf-pages/4_B-Si_002___113__peak_info/page-01.png" alt="4_B-Si_002___113__peak_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>
+```
+
+## 2_XRD_low_angle
+
+```html
+<div class="pdf-gallery" id="2_XRD_low_angle-gallery">
+  <h3>2_XRD_low_angle</h3>
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-01.png" alt="2_XRD_low_angle - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-02.png" alt="2_XRD_low_angle - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-03.png" alt="2_XRD_low_angle - page-03.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-04.png" alt="2_XRD_low_angle - page-04.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-05.png" alt="2_XRD_low_angle - page-05.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-06.png" alt="2_XRD_low_angle - page-06.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-07.png" alt="2_XRD_low_angle - page-07.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-08.png" alt="2_XRD_low_angle - page-08.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-09.png" alt="2_XRD_low_angle - page-09.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-10.png" alt="2_XRD_low_angle - page-10.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-11.png" alt="2_XRD_low_angle - page-11.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-12.png" alt="2_XRD_low_angle - page-12.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-13.png" alt="2_XRD_low_angle - page-13.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-14.png" alt="2_XRD_low_angle - page-14.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-15.png" alt="2_XRD_low_angle - page-15.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-16.png" alt="2_XRD_low_angle - page-16.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-17.png" alt="2_XRD_low_angle - page-17.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-18.png" alt="2_XRD_low_angle - page-18.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-19.png" alt="2_XRD_low_angle - page-19.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-20.png" alt="2_XRD_low_angle - page-20.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-21.png" alt="2_XRD_low_angle - page-21.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-22.png" alt="2_XRD_low_angle - page-22.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-23.png" alt="2_XRD_low_angle - page-23.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-24.png" alt="2_XRD_low_angle - page-24.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-25.png" alt="2_XRD_low_angle - page-25.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-26.png" alt="2_XRD_low_angle - page-26.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-27.png" alt="2_XRD_low_angle - page-27.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-28.png" alt="2_XRD_low_angle - page-28.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-29.png" alt="2_XRD_low_angle - page-29.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-30.png" alt="2_XRD_low_angle - page-30.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-31.png" alt="2_XRD_low_angle - page-31.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-32.png" alt="2_XRD_low_angle - page-32.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-33.png" alt="2_XRD_low_angle - page-33.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-34.png" alt="2_XRD_low_angle - page-34.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-35.png" alt="2_XRD_low_angle - page-35.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-36.png" alt="2_XRD_low_angle - page-36.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-37.png" alt="2_XRD_low_angle - page-37.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-38.png" alt="2_XRD_low_angle - page-38.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-39.png" alt="2_XRD_low_angle - page-39.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-40.png" alt="2_XRD_low_angle - page-40.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-41.png" alt="2_XRD_low_angle - page-41.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-42.png" alt="2_XRD_low_angle - page-42.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-43.png" alt="2_XRD_low_angle - page-43.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-44.png" alt="2_XRD_low_angle - page-44.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-45.png" alt="2_XRD_low_angle - page-45.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-46.png" alt="2_XRD_low_angle - page-46.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-47.png" alt="2_XRD_low_angle - page-47.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-48.png" alt="2_XRD_low_angle - page-48.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-49.png" alt="2_XRD_low_angle - page-49.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-50.png" alt="2_XRD_low_angle - page-50.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-51.png" alt="2_XRD_low_angle - page-51.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-52.png" alt="2_XRD_low_angle - page-52.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-53.png" alt="2_XRD_low_angle - page-53.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-54.png" alt="2_XRD_low_angle - page-54.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-55.png" alt="2_XRD_low_angle - page-55.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-56.png" alt="2_XRD_low_angle - page-56.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-57.png" alt="2_XRD_low_angle - page-57.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-58.png" alt="2_XRD_low_angle - page-58.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-59.png" alt="2_XRD_low_angle - page-59.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-60.png" alt="2_XRD_low_angle - page-60.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-61.png" alt="2_XRD_low_angle - page-61.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-62.png" alt="2_XRD_low_angle - page-62.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-63.png" alt="2_XRD_low_angle - page-63.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-64.png" alt="2_XRD_low_angle - page-64.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-65.png" alt="2_XRD_low_angle - page-65.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-66.png" alt="2_XRD_low_angle - page-66.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-67.png" alt="2_XRD_low_angle - page-67.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-68.png" alt="2_XRD_low_angle - page-68.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-69.png" alt="2_XRD_low_angle - page-69.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-70.png" alt="2_XRD_low_angle - page-70.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-71.png" alt="2_XRD_low_angle - page-71.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-72.png" alt="2_XRD_low_angle - page-72.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-73.png" alt="2_XRD_low_angle - page-73.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-74.png" alt="2_XRD_low_angle - page-74.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-75.png" alt="2_XRD_low_angle - page-75.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-76.png" alt="2_XRD_low_angle - page-76.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-77.png" alt="2_XRD_low_angle - page-77.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-78.png" alt="2_XRD_low_angle - page-78.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-79.png" alt="2_XRD_low_angle - page-79.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-80.png" alt="2_XRD_low_angle - page-80.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-81.png" alt="2_XRD_low_angle - page-81.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-82.png" alt="2_XRD_low_angle - page-82.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-83.png" alt="2_XRD_low_angle - page-83.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-84.png" alt="2_XRD_low_angle - page-84.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-85.png" alt="2_XRD_low_angle - page-85.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-86.png" alt="2_XRD_low_angle - page-86.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-87.png" alt="2_XRD_low_angle - page-87.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-88.png" alt="2_XRD_low_angle - page-88.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/2_XRD_low_angle/page-89.png" alt="2_XRD_low_angle - page-89.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>
+```
+
+## XRT_info
+
+```html
+<div class="pdf-gallery" id="XRT_info-gallery">
+  <h3>XRT_info</h3>
+  <img src="/images/pdf-pages/XRT_info/page-01.png" alt="XRT_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT_info/page-02.png" alt="XRT_info - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>
+```
+
+## basic_info
+
+```html
+<div class="pdf-gallery" id="basic_info-gallery">
+  <h3>basic_info</h3>
+  <img src="/images/pdf-pages/basic_info/page-01.png" alt="basic_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>
+```
+
+## 3_high_res_XRD_info
+
+```html
+<div class="pdf-gallery" id="3_high_res_XRD_info-gallery">
+  <h3>3_high_res_XRD_info</h3>
+  <img src="/images/pdf-pages/3_high_res_XRD_info/page-01.png" alt="3_high_res_XRD_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/3_high_res_XRD_info/page-02.png" alt="3_high_res_XRD_info - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
 </div>
 ```
 
@@ -21,73 +147,108 @@ Use these HTML snippets to embed your converted PDFs as image galleries:
 </div>
 ```
 
-## XRT
+## XRD_thin_film_analysis_info
 
 ```html
-<div class="pdf-gallery" id="XRT-gallery">
-  <h3>XRT</h3>
-  <img src="/images/pdf-pages/XRT/page-01.png" alt="XRT - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-02.png" alt="XRT - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-03.png" alt="XRT - page-03.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-04.png" alt="XRT - page-04.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-05.png" alt="XRT - page-05.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-06.png" alt="XRT - page-06.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-07.png" alt="XRT - page-07.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-08.png" alt="XRT - page-08.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-09.png" alt="XRT - page-09.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-10.png" alt="XRT - page-10.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-11.png" alt="XRT - page-11.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-12.png" alt="XRT - page-12.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-13.png" alt="XRT - page-13.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-14.png" alt="XRT - page-14.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-15.png" alt="XRT - page-15.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-16.png" alt="XRT - page-16.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-17.png" alt="XRT - page-17.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-18.png" alt="XRT - page-18.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-19.png" alt="XRT - page-19.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-20.png" alt="XRT - page-20.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-21.png" alt="XRT - page-21.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-22.png" alt="XRT - page-22.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-23.png" alt="XRT - page-23.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-24.png" alt="XRT - page-24.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-25.png" alt="XRT - page-25.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-26.png" alt="XRT - page-26.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-27.png" alt="XRT - page-27.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-28.png" alt="XRT - page-28.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-29.png" alt="XRT - page-29.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-30.png" alt="XRT - page-30.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-31.png" alt="XRT - page-31.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-32.png" alt="XRT - page-32.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-33.png" alt="XRT - page-33.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-34.png" alt="XRT - page-34.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-35.png" alt="XRT - page-35.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-36.png" alt="XRT - page-36.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-37.png" alt="XRT - page-37.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-38.png" alt="XRT - page-38.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-39.png" alt="XRT - page-39.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-40.png" alt="XRT - page-40.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-41.png" alt="XRT - page-41.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-42.png" alt="XRT - page-42.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-43.png" alt="XRT - page-43.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-44.png" alt="XRT - page-44.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-45.png" alt="XRT - page-45.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-46.png" alt="XRT - page-46.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-47.png" alt="XRT - page-47.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-48.png" alt="XRT - page-48.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-49.png" alt="XRT - page-49.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-50.png" alt="XRT - page-50.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-51.png" alt="XRT - page-51.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-52.png" alt="XRT - page-52.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT/page-53.png" alt="XRT - page-53.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+<div class="pdf-gallery" id="XRD_thin_film_analysis_info-gallery">
+  <h3>XRD_thin_film_analysis_info</h3>
+  <img src="/images/pdf-pages/XRD_thin_film_analysis_info/page-01.png" alt="XRD_thin_film_analysis_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
 </div>
 ```
 
-## XRD_basic
+## 250904-KAIST-KARA-session-1
 
 ```html
-<div class="pdf-gallery" id="XRD_basic-gallery">
-  <h3>XRD_basic</h3>
-  <img src="/images/pdf-pages/XRD_basic/page-01.png" alt="XRD_basic - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+<div class="pdf-gallery" id="250904-KAIST-KARA-session-1-gallery">
+  <h3>250904-KAIST-KARA-session-1</h3>
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-01.png" alt="250904-KAIST-KARA-session-1 - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-02.png" alt="250904-KAIST-KARA-session-1 - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-03.png" alt="250904-KAIST-KARA-session-1 - page-03.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-04.png" alt="250904-KAIST-KARA-session-1 - page-04.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-05.png" alt="250904-KAIST-KARA-session-1 - page-05.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-06.png" alt="250904-KAIST-KARA-session-1 - page-06.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-07.png" alt="250904-KAIST-KARA-session-1 - page-07.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-08.png" alt="250904-KAIST-KARA-session-1 - page-08.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-09.png" alt="250904-KAIST-KARA-session-1 - page-09.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-10.png" alt="250904-KAIST-KARA-session-1 - page-10.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-11.png" alt="250904-KAIST-KARA-session-1 - page-11.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-12.png" alt="250904-KAIST-KARA-session-1 - page-12.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-13.png" alt="250904-KAIST-KARA-session-1 - page-13.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-14.png" alt="250904-KAIST-KARA-session-1 - page-14.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-15.png" alt="250904-KAIST-KARA-session-1 - page-15.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-16.png" alt="250904-KAIST-KARA-session-1 - page-16.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-17.png" alt="250904-KAIST-KARA-session-1 - page-17.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-18.png" alt="250904-KAIST-KARA-session-1 - page-18.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-19.png" alt="250904-KAIST-KARA-session-1 - page-19.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-20.png" alt="250904-KAIST-KARA-session-1 - page-20.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-21.png" alt="250904-KAIST-KARA-session-1 - page-21.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-22.png" alt="250904-KAIST-KARA-session-1 - page-22.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-23.png" alt="250904-KAIST-KARA-session-1 - page-23.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-24.png" alt="250904-KAIST-KARA-session-1 - page-24.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-25.png" alt="250904-KAIST-KARA-session-1 - page-25.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-26.png" alt="250904-KAIST-KARA-session-1 - page-26.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-27.png" alt="250904-KAIST-KARA-session-1 - page-27.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-28.png" alt="250904-KAIST-KARA-session-1 - page-28.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-29.png" alt="250904-KAIST-KARA-session-1 - page-29.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-30.png" alt="250904-KAIST-KARA-session-1 - page-30.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-31.png" alt="250904-KAIST-KARA-session-1 - page-31.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-32.png" alt="250904-KAIST-KARA-session-1 - page-32.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-33.png" alt="250904-KAIST-KARA-session-1 - page-33.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-34.png" alt="250904-KAIST-KARA-session-1 - page-34.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-35.png" alt="250904-KAIST-KARA-session-1 - page-35.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-36.png" alt="250904-KAIST-KARA-session-1 - page-36.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-37.png" alt="250904-KAIST-KARA-session-1 - page-37.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-38.png" alt="250904-KAIST-KARA-session-1 - page-38.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-39.png" alt="250904-KAIST-KARA-session-1 - page-39.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-40.png" alt="250904-KAIST-KARA-session-1 - page-40.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-41.png" alt="250904-KAIST-KARA-session-1 - page-41.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-42.png" alt="250904-KAIST-KARA-session-1 - page-42.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-43.png" alt="250904-KAIST-KARA-session-1 - page-43.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-44.png" alt="250904-KAIST-KARA-session-1 - page-44.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-45.png" alt="250904-KAIST-KARA-session-1 - page-45.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-46.png" alt="250904-KAIST-KARA-session-1 - page-46.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-47.png" alt="250904-KAIST-KARA-session-1 - page-47.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-48.png" alt="250904-KAIST-KARA-session-1 - page-48.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-49.png" alt="250904-KAIST-KARA-session-1 - page-49.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-50.png" alt="250904-KAIST-KARA-session-1 - page-50.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-51.png" alt="250904-KAIST-KARA-session-1 - page-51.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-52.png" alt="250904-KAIST-KARA-session-1 - page-52.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-53.png" alt="250904-KAIST-KARA-session-1 - page-53.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-54.png" alt="250904-KAIST-KARA-session-1 - page-54.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-55.png" alt="250904-KAIST-KARA-session-1 - page-55.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-56.png" alt="250904-KAIST-KARA-session-1 - page-56.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-57.png" alt="250904-KAIST-KARA-session-1 - page-57.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-58.png" alt="250904-KAIST-KARA-session-1 - page-58.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-59.png" alt="250904-KAIST-KARA-session-1 - page-59.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-60.png" alt="250904-KAIST-KARA-session-1 - page-60.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-61.png" alt="250904-KAIST-KARA-session-1 - page-61.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-62.png" alt="250904-KAIST-KARA-session-1 - page-62.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-63.png" alt="250904-KAIST-KARA-session-1 - page-63.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-64.png" alt="250904-KAIST-KARA-session-1 - page-64.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-65.png" alt="250904-KAIST-KARA-session-1 - page-65.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-66.png" alt="250904-KAIST-KARA-session-1 - page-66.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-67.png" alt="250904-KAIST-KARA-session-1 - page-67.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-68.png" alt="250904-KAIST-KARA-session-1 - page-68.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-69.png" alt="250904-KAIST-KARA-session-1 - page-69.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-70.png" alt="250904-KAIST-KARA-session-1 - page-70.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-71.png" alt="250904-KAIST-KARA-session-1 - page-71.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-72.png" alt="250904-KAIST-KARA-session-1 - page-72.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-73.png" alt="250904-KAIST-KARA-session-1 - page-73.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-74.png" alt="250904-KAIST-KARA-session-1 - page-74.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-75.png" alt="250904-KAIST-KARA-session-1 - page-75.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-76.png" alt="250904-KAIST-KARA-session-1 - page-76.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-77.png" alt="250904-KAIST-KARA-session-1 - page-77.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-78.png" alt="250904-KAIST-KARA-session-1 - page-78.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-79.png" alt="250904-KAIST-KARA-session-1 - page-79.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-80.png" alt="250904-KAIST-KARA-session-1 - page-80.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-81.png" alt="250904-KAIST-KARA-session-1 - page-81.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-82.png" alt="250904-KAIST-KARA-session-1 - page-82.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-83.png" alt="250904-KAIST-KARA-session-1 - page-83.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-84.png" alt="250904-KAIST-KARA-session-1 - page-84.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-85.png" alt="250904-KAIST-KARA-session-1 - page-85.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-86.png" alt="250904-KAIST-KARA-session-1 - page-86.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-87.png" alt="250904-KAIST-KARA-session-1 - page-87.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-1/page-88.png" alt="250904-KAIST-KARA-session-1 - page-88.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
 </div>
 ```
 
@@ -167,24 +328,6 @@ Use these HTML snippets to embed your converted PDFs as image galleries:
 </div>
 ```
 
-## 1_XRD_basic_info
-
-```html
-<div class="pdf-gallery" id="1_XRD_basic_info-gallery">
-  <h3>1_XRD_basic_info</h3>
-  <img src="/images/pdf-pages/1_XRD_basic_info/page-01.png" alt="1_XRD_basic_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-</div>
-```
-
-## 4_A-Scherrer_info
-
-```html
-<div class="pdf-gallery" id="4_A-Scherrer_info-gallery">
-  <h3>4_A-Scherrer_info</h3>
-  <img src="/images/pdf-pages/4_A-Scherrer_info/page-01.png" alt="4_A-Scherrer_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-</div>
-```
-
 ## 4_A-Scherrer
 
 ```html
@@ -203,22 +346,271 @@ Use these HTML snippets to embed your converted PDFs as image galleries:
 </div>
 ```
 
-## 4_B-Si_002___113__peak_info
+## XRT
 
 ```html
-<div class="pdf-gallery" id="4_B-Si_002___113__peak_info-gallery">
-  <h3>4_B-Si_002___113__peak_info</h3>
-  <img src="/images/pdf-pages/4_B-Si_002___113__peak_info/page-01.png" alt="4_B-Si_002___113__peak_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+<div class="pdf-gallery" id="XRT-gallery">
+  <h3>XRT</h3>
+  <img src="/images/pdf-pages/XRT/page-01.png" alt="XRT - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-02.png" alt="XRT - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-03.png" alt="XRT - page-03.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-04.png" alt="XRT - page-04.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-05.png" alt="XRT - page-05.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-06.png" alt="XRT - page-06.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-07.png" alt="XRT - page-07.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-08.png" alt="XRT - page-08.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-09.png" alt="XRT - page-09.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-10.png" alt="XRT - page-10.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-11.png" alt="XRT - page-11.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-12.png" alt="XRT - page-12.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-13.png" alt="XRT - page-13.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-14.png" alt="XRT - page-14.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-15.png" alt="XRT - page-15.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-16.png" alt="XRT - page-16.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-17.png" alt="XRT - page-17.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-18.png" alt="XRT - page-18.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-19.png" alt="XRT - page-19.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-20.png" alt="XRT - page-20.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-21.png" alt="XRT - page-21.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-22.png" alt="XRT - page-22.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-23.png" alt="XRT - page-23.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-24.png" alt="XRT - page-24.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-25.png" alt="XRT - page-25.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-26.png" alt="XRT - page-26.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-27.png" alt="XRT - page-27.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-28.png" alt="XRT - page-28.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-29.png" alt="XRT - page-29.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-30.png" alt="XRT - page-30.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-31.png" alt="XRT - page-31.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-32.png" alt="XRT - page-32.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-33.png" alt="XRT - page-33.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-34.png" alt="XRT - page-34.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-35.png" alt="XRT - page-35.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-36.png" alt="XRT - page-36.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-37.png" alt="XRT - page-37.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-38.png" alt="XRT - page-38.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-39.png" alt="XRT - page-39.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-40.png" alt="XRT - page-40.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-41.png" alt="XRT - page-41.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-42.png" alt="XRT - page-42.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-43.png" alt="XRT - page-43.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-44.png" alt="XRT - page-44.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-45.png" alt="XRT - page-45.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-46.png" alt="XRT - page-46.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-47.png" alt="XRT - page-47.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-48.png" alt="XRT - page-48.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-49.png" alt="XRT - page-49.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-50.png" alt="XRT - page-50.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-51.png" alt="XRT - page-51.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-52.png" alt="XRT - page-52.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/XRT/page-53.png" alt="XRT - page-53.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
 </div>
 ```
 
-## 3_high_res_XRD_info
+## 1_XRD_basic_info
 
 ```html
-<div class="pdf-gallery" id="3_high_res_XRD_info-gallery">
-  <h3>3_high_res_XRD_info</h3>
-  <img src="/images/pdf-pages/3_high_res_XRD_info/page-01.png" alt="3_high_res_XRD_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/3_high_res_XRD_info/page-02.png" alt="3_high_res_XRD_info - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+<div class="pdf-gallery" id="1_XRD_basic_info-gallery">
+  <h3>1_XRD_basic_info</h3>
+  <img src="/images/pdf-pages/1_XRD_basic_info/page-01.png" alt="1_XRD_basic_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>
+```
+
+## 4_A-Scherrer_info
+
+```html
+<div class="pdf-gallery" id="4_A-Scherrer_info-gallery">
+  <h3>4_A-Scherrer_info</h3>
+  <img src="/images/pdf-pages/4_A-Scherrer_info/page-01.png" alt="4_A-Scherrer_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>
+```
+
+## 250904-KAIST-KARA-session-2
+
+```html
+<div class="pdf-gallery" id="250904-KAIST-KARA-session-2-gallery">
+  <h3>250904-KAIST-KARA-session-2</h3>
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-01.png" alt="250904-KAIST-KARA-session-2 - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-02.png" alt="250904-KAIST-KARA-session-2 - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-03.png" alt="250904-KAIST-KARA-session-2 - page-03.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-04.png" alt="250904-KAIST-KARA-session-2 - page-04.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-05.png" alt="250904-KAIST-KARA-session-2 - page-05.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-06.png" alt="250904-KAIST-KARA-session-2 - page-06.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-07.png" alt="250904-KAIST-KARA-session-2 - page-07.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-08.png" alt="250904-KAIST-KARA-session-2 - page-08.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-09.png" alt="250904-KAIST-KARA-session-2 - page-09.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-10.png" alt="250904-KAIST-KARA-session-2 - page-10.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-11.png" alt="250904-KAIST-KARA-session-2 - page-11.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-12.png" alt="250904-KAIST-KARA-session-2 - page-12.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-13.png" alt="250904-KAIST-KARA-session-2 - page-13.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-14.png" alt="250904-KAIST-KARA-session-2 - page-14.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-15.png" alt="250904-KAIST-KARA-session-2 - page-15.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-16.png" alt="250904-KAIST-KARA-session-2 - page-16.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-17.png" alt="250904-KAIST-KARA-session-2 - page-17.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-18.png" alt="250904-KAIST-KARA-session-2 - page-18.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-19.png" alt="250904-KAIST-KARA-session-2 - page-19.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-20.png" alt="250904-KAIST-KARA-session-2 - page-20.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-21.png" alt="250904-KAIST-KARA-session-2 - page-21.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-22.png" alt="250904-KAIST-KARA-session-2 - page-22.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-23.png" alt="250904-KAIST-KARA-session-2 - page-23.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-24.png" alt="250904-KAIST-KARA-session-2 - page-24.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-25.png" alt="250904-KAIST-KARA-session-2 - page-25.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-26.png" alt="250904-KAIST-KARA-session-2 - page-26.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-27.png" alt="250904-KAIST-KARA-session-2 - page-27.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-28.png" alt="250904-KAIST-KARA-session-2 - page-28.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-29.png" alt="250904-KAIST-KARA-session-2 - page-29.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-30.png" alt="250904-KAIST-KARA-session-2 - page-30.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-31.png" alt="250904-KAIST-KARA-session-2 - page-31.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-32.png" alt="250904-KAIST-KARA-session-2 - page-32.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-33.png" alt="250904-KAIST-KARA-session-2 - page-33.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-34.png" alt="250904-KAIST-KARA-session-2 - page-34.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-35.png" alt="250904-KAIST-KARA-session-2 - page-35.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-36.png" alt="250904-KAIST-KARA-session-2 - page-36.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-37.png" alt="250904-KAIST-KARA-session-2 - page-37.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-38.png" alt="250904-KAIST-KARA-session-2 - page-38.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-39.png" alt="250904-KAIST-KARA-session-2 - page-39.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-40.png" alt="250904-KAIST-KARA-session-2 - page-40.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-41.png" alt="250904-KAIST-KARA-session-2 - page-41.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-42.png" alt="250904-KAIST-KARA-session-2 - page-42.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-43.png" alt="250904-KAIST-KARA-session-2 - page-43.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-44.png" alt="250904-KAIST-KARA-session-2 - page-44.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-45.png" alt="250904-KAIST-KARA-session-2 - page-45.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-46.png" alt="250904-KAIST-KARA-session-2 - page-46.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-47.png" alt="250904-KAIST-KARA-session-2 - page-47.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-48.png" alt="250904-KAIST-KARA-session-2 - page-48.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-49.png" alt="250904-KAIST-KARA-session-2 - page-49.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-50.png" alt="250904-KAIST-KARA-session-2 - page-50.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-51.png" alt="250904-KAIST-KARA-session-2 - page-51.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-52.png" alt="250904-KAIST-KARA-session-2 - page-52.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-53.png" alt="250904-KAIST-KARA-session-2 - page-53.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-54.png" alt="250904-KAIST-KARA-session-2 - page-54.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-55.png" alt="250904-KAIST-KARA-session-2 - page-55.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-56.png" alt="250904-KAIST-KARA-session-2 - page-56.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-57.png" alt="250904-KAIST-KARA-session-2 - page-57.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-58.png" alt="250904-KAIST-KARA-session-2 - page-58.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-59.png" alt="250904-KAIST-KARA-session-2 - page-59.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-60.png" alt="250904-KAIST-KARA-session-2 - page-60.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-61.png" alt="250904-KAIST-KARA-session-2 - page-61.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-62.png" alt="250904-KAIST-KARA-session-2 - page-62.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-63.png" alt="250904-KAIST-KARA-session-2 - page-63.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-64.png" alt="250904-KAIST-KARA-session-2 - page-64.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-65.png" alt="250904-KAIST-KARA-session-2 - page-65.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-66.png" alt="250904-KAIST-KARA-session-2 - page-66.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-67.png" alt="250904-KAIST-KARA-session-2 - page-67.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-68.png" alt="250904-KAIST-KARA-session-2 - page-68.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-69.png" alt="250904-KAIST-KARA-session-2 - page-69.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-70.png" alt="250904-KAIST-KARA-session-2 - page-70.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-71.png" alt="250904-KAIST-KARA-session-2 - page-71.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-72.png" alt="250904-KAIST-KARA-session-2 - page-72.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-73.png" alt="250904-KAIST-KARA-session-2 - page-73.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-74.png" alt="250904-KAIST-KARA-session-2 - page-74.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-75.png" alt="250904-KAIST-KARA-session-2 - page-75.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-76.png" alt="250904-KAIST-KARA-session-2 - page-76.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-77.png" alt="250904-KAIST-KARA-session-2 - page-77.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-78.png" alt="250904-KAIST-KARA-session-2 - page-78.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-79.png" alt="250904-KAIST-KARA-session-2 - page-79.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-80.png" alt="250904-KAIST-KARA-session-2 - page-80.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-81.png" alt="250904-KAIST-KARA-session-2 - page-81.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-82.png" alt="250904-KAIST-KARA-session-2 - page-82.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-83.png" alt="250904-KAIST-KARA-session-2 - page-83.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-84.png" alt="250904-KAIST-KARA-session-2 - page-84.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/250904-KAIST-KARA-session-2/page-85.png" alt="250904-KAIST-KARA-session-2 - page-85.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>
+```
+
+## XRD_basic
+
+```html
+<div class="pdf-gallery" id="XRD_basic-gallery">
+  <h3>XRD_basic</h3>
+  <img src="/images/pdf-pages/XRD_basic/page-01.png" alt="XRD_basic - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+</div>
+```
+
+## 1_XRD_basic
+
+```html
+<div class="pdf-gallery" id="1_XRD_basic-gallery">
+  <h3>1_XRD_basic</h3>
+  <img src="/images/pdf-pages/1_XRD_basic/page-01.png" alt="1_XRD_basic - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-02.png" alt="1_XRD_basic - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-03.png" alt="1_XRD_basic - page-03.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-04.png" alt="1_XRD_basic - page-04.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-05.png" alt="1_XRD_basic - page-05.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-06.png" alt="1_XRD_basic - page-06.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-07.png" alt="1_XRD_basic - page-07.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-08.png" alt="1_XRD_basic - page-08.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-09.png" alt="1_XRD_basic - page-09.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-10.png" alt="1_XRD_basic - page-10.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-11.png" alt="1_XRD_basic - page-11.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-12.png" alt="1_XRD_basic - page-12.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-13.png" alt="1_XRD_basic - page-13.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-14.png" alt="1_XRD_basic - page-14.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-15.png" alt="1_XRD_basic - page-15.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-16.png" alt="1_XRD_basic - page-16.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-17.png" alt="1_XRD_basic - page-17.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-18.png" alt="1_XRD_basic - page-18.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-19.png" alt="1_XRD_basic - page-19.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-20.png" alt="1_XRD_basic - page-20.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-21.png" alt="1_XRD_basic - page-21.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-22.png" alt="1_XRD_basic - page-22.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-23.png" alt="1_XRD_basic - page-23.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-24.png" alt="1_XRD_basic - page-24.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-25.png" alt="1_XRD_basic - page-25.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-26.png" alt="1_XRD_basic - page-26.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-27.png" alt="1_XRD_basic - page-27.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-28.png" alt="1_XRD_basic - page-28.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-29.png" alt="1_XRD_basic - page-29.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-30.png" alt="1_XRD_basic - page-30.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-31.png" alt="1_XRD_basic - page-31.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-32.png" alt="1_XRD_basic - page-32.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-33.png" alt="1_XRD_basic - page-33.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-34.png" alt="1_XRD_basic - page-34.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-35.png" alt="1_XRD_basic - page-35.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-36.png" alt="1_XRD_basic - page-36.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-37.png" alt="1_XRD_basic - page-37.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-38.png" alt="1_XRD_basic - page-38.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-39.png" alt="1_XRD_basic - page-39.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-40.png" alt="1_XRD_basic - page-40.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-41.png" alt="1_XRD_basic - page-41.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-42.png" alt="1_XRD_basic - page-42.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-43.png" alt="1_XRD_basic - page-43.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-44.png" alt="1_XRD_basic - page-44.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-45.png" alt="1_XRD_basic - page-45.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-46.png" alt="1_XRD_basic - page-46.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-47.png" alt="1_XRD_basic - page-47.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-48.png" alt="1_XRD_basic - page-48.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-49.png" alt="1_XRD_basic - page-49.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-50.png" alt="1_XRD_basic - page-50.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-51.png" alt="1_XRD_basic - page-51.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-52.png" alt="1_XRD_basic - page-52.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-53.png" alt="1_XRD_basic - page-53.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-54.png" alt="1_XRD_basic - page-54.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-55.png" alt="1_XRD_basic - page-55.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-56.png" alt="1_XRD_basic - page-56.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-57.png" alt="1_XRD_basic - page-57.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-58.png" alt="1_XRD_basic - page-58.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-59.png" alt="1_XRD_basic - page-59.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-60.png" alt="1_XRD_basic - page-60.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-61.png" alt="1_XRD_basic - page-61.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-62.png" alt="1_XRD_basic - page-62.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-63.png" alt="1_XRD_basic - page-63.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-64.png" alt="1_XRD_basic - page-64.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-65.png" alt="1_XRD_basic - page-65.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-66.png" alt="1_XRD_basic - page-66.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-67.png" alt="1_XRD_basic - page-67.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-68.png" alt="1_XRD_basic - page-68.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-69.png" alt="1_XRD_basic - page-69.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-70.png" alt="1_XRD_basic - page-70.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-71.png" alt="1_XRD_basic - page-71.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-72.png" alt="1_XRD_basic - page-72.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-73.png" alt="1_XRD_basic - page-73.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-74.png" alt="1_XRD_basic - page-74.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-75.png" alt="1_XRD_basic - page-75.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-76.png" alt="1_XRD_basic - page-76.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-77.png" alt="1_XRD_basic - page-77.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-78.png" alt="1_XRD_basic - page-78.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
+  <img src="/images/pdf-pages/1_XRD_basic/page-79.png" alt="1_XRD_basic - page-79.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
 </div>
 ```
 
@@ -322,122 +714,6 @@ Use these HTML snippets to embed your converted PDFs as image galleries:
 </div>
 ```
 
-## XRT_info
-
-```html
-<div class="pdf-gallery" id="XRT_info-gallery">
-  <h3>XRT_info</h3>
-  <img src="/images/pdf-pages/XRT_info/page-01.png" alt="XRT_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/XRT_info/page-02.png" alt="XRT_info - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-</div>
-```
-
-## 2_XRD_low_angle
-
-```html
-<div class="pdf-gallery" id="2_XRD_low_angle-gallery">
-  <h3>2_XRD_low_angle</h3>
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-01.png" alt="2_XRD_low_angle - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-02.png" alt="2_XRD_low_angle - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-03.png" alt="2_XRD_low_angle - page-03.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-04.png" alt="2_XRD_low_angle - page-04.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-05.png" alt="2_XRD_low_angle - page-05.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-06.png" alt="2_XRD_low_angle - page-06.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-07.png" alt="2_XRD_low_angle - page-07.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-08.png" alt="2_XRD_low_angle - page-08.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-09.png" alt="2_XRD_low_angle - page-09.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-10.png" alt="2_XRD_low_angle - page-10.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-11.png" alt="2_XRD_low_angle - page-11.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-12.png" alt="2_XRD_low_angle - page-12.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-13.png" alt="2_XRD_low_angle - page-13.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-14.png" alt="2_XRD_low_angle - page-14.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-15.png" alt="2_XRD_low_angle - page-15.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-16.png" alt="2_XRD_low_angle - page-16.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-17.png" alt="2_XRD_low_angle - page-17.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-18.png" alt="2_XRD_low_angle - page-18.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-19.png" alt="2_XRD_low_angle - page-19.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-20.png" alt="2_XRD_low_angle - page-20.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-21.png" alt="2_XRD_low_angle - page-21.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-22.png" alt="2_XRD_low_angle - page-22.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-23.png" alt="2_XRD_low_angle - page-23.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-24.png" alt="2_XRD_low_angle - page-24.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-25.png" alt="2_XRD_low_angle - page-25.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-26.png" alt="2_XRD_low_angle - page-26.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-27.png" alt="2_XRD_low_angle - page-27.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-28.png" alt="2_XRD_low_angle - page-28.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-29.png" alt="2_XRD_low_angle - page-29.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-30.png" alt="2_XRD_low_angle - page-30.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-31.png" alt="2_XRD_low_angle - page-31.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-32.png" alt="2_XRD_low_angle - page-32.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-33.png" alt="2_XRD_low_angle - page-33.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-34.png" alt="2_XRD_low_angle - page-34.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-35.png" alt="2_XRD_low_angle - page-35.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-36.png" alt="2_XRD_low_angle - page-36.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-37.png" alt="2_XRD_low_angle - page-37.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-38.png" alt="2_XRD_low_angle - page-38.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-39.png" alt="2_XRD_low_angle - page-39.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-40.png" alt="2_XRD_low_angle - page-40.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-41.png" alt="2_XRD_low_angle - page-41.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-42.png" alt="2_XRD_low_angle - page-42.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-43.png" alt="2_XRD_low_angle - page-43.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-44.png" alt="2_XRD_low_angle - page-44.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-45.png" alt="2_XRD_low_angle - page-45.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-46.png" alt="2_XRD_low_angle - page-46.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-47.png" alt="2_XRD_low_angle - page-47.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-48.png" alt="2_XRD_low_angle - page-48.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-49.png" alt="2_XRD_low_angle - page-49.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-50.png" alt="2_XRD_low_angle - page-50.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-51.png" alt="2_XRD_low_angle - page-51.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-52.png" alt="2_XRD_low_angle - page-52.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-53.png" alt="2_XRD_low_angle - page-53.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-54.png" alt="2_XRD_low_angle - page-54.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-55.png" alt="2_XRD_low_angle - page-55.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-56.png" alt="2_XRD_low_angle - page-56.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-57.png" alt="2_XRD_low_angle - page-57.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-58.png" alt="2_XRD_low_angle - page-58.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-59.png" alt="2_XRD_low_angle - page-59.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-60.png" alt="2_XRD_low_angle - page-60.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-61.png" alt="2_XRD_low_angle - page-61.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-62.png" alt="2_XRD_low_angle - page-62.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-63.png" alt="2_XRD_low_angle - page-63.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-64.png" alt="2_XRD_low_angle - page-64.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-65.png" alt="2_XRD_low_angle - page-65.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-66.png" alt="2_XRD_low_angle - page-66.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-67.png" alt="2_XRD_low_angle - page-67.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-68.png" alt="2_XRD_low_angle - page-68.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-69.png" alt="2_XRD_low_angle - page-69.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-70.png" alt="2_XRD_low_angle - page-70.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-71.png" alt="2_XRD_low_angle - page-71.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-72.png" alt="2_XRD_low_angle - page-72.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-73.png" alt="2_XRD_low_angle - page-73.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-74.png" alt="2_XRD_low_angle - page-74.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-75.png" alt="2_XRD_low_angle - page-75.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-76.png" alt="2_XRD_low_angle - page-76.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-77.png" alt="2_XRD_low_angle - page-77.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-78.png" alt="2_XRD_low_angle - page-78.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-79.png" alt="2_XRD_low_angle - page-79.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-80.png" alt="2_XRD_low_angle - page-80.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-81.png" alt="2_XRD_low_angle - page-81.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-82.png" alt="2_XRD_low_angle - page-82.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-83.png" alt="2_XRD_low_angle - page-83.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-84.png" alt="2_XRD_low_angle - page-84.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-85.png" alt="2_XRD_low_angle - page-85.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-86.png" alt="2_XRD_low_angle - page-86.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-87.png" alt="2_XRD_low_angle - page-87.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-88.png" alt="2_XRD_low_angle - page-88.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/2_XRD_low_angle/page-89.png" alt="2_XRD_low_angle - page-89.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-</div>
-```
-
-## basic_info
-
-```html
-<div class="pdf-gallery" id="basic_info-gallery">
-  <h3>basic_info</h3>
-  <img src="/images/pdf-pages/basic_info/page-01.png" alt="basic_info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-</div>
-```
-
 ## 4_B-Si_002___113__peak
 
 ```html
@@ -466,93 +742,6 @@ Use these HTML snippets to embed your converted PDFs as image galleries:
 <div class="pdf-gallery" id="info-gallery">
   <h3>info</h3>
   <img src="/images/pdf-pages/info/page-01.png" alt="info - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-</div>
-```
-
-## 1_XRD_basic
-
-```html
-<div class="pdf-gallery" id="1_XRD_basic-gallery">
-  <h3>1_XRD_basic</h3>
-  <img src="/images/pdf-pages/1_XRD_basic/page-01.png" alt="1_XRD_basic - page-01.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-02.png" alt="1_XRD_basic - page-02.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-03.png" alt="1_XRD_basic - page-03.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-04.png" alt="1_XRD_basic - page-04.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-05.png" alt="1_XRD_basic - page-05.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-06.png" alt="1_XRD_basic - page-06.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-07.png" alt="1_XRD_basic - page-07.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-08.png" alt="1_XRD_basic - page-08.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-09.png" alt="1_XRD_basic - page-09.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-10.png" alt="1_XRD_basic - page-10.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-11.png" alt="1_XRD_basic - page-11.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-12.png" alt="1_XRD_basic - page-12.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-13.png" alt="1_XRD_basic - page-13.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-14.png" alt="1_XRD_basic - page-14.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-15.png" alt="1_XRD_basic - page-15.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-16.png" alt="1_XRD_basic - page-16.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-17.png" alt="1_XRD_basic - page-17.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-18.png" alt="1_XRD_basic - page-18.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-19.png" alt="1_XRD_basic - page-19.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-20.png" alt="1_XRD_basic - page-20.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-21.png" alt="1_XRD_basic - page-21.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-22.png" alt="1_XRD_basic - page-22.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-23.png" alt="1_XRD_basic - page-23.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-24.png" alt="1_XRD_basic - page-24.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-25.png" alt="1_XRD_basic - page-25.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-26.png" alt="1_XRD_basic - page-26.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-27.png" alt="1_XRD_basic - page-27.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-28.png" alt="1_XRD_basic - page-28.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-29.png" alt="1_XRD_basic - page-29.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-30.png" alt="1_XRD_basic - page-30.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-31.png" alt="1_XRD_basic - page-31.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-32.png" alt="1_XRD_basic - page-32.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-33.png" alt="1_XRD_basic - page-33.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-34.png" alt="1_XRD_basic - page-34.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-35.png" alt="1_XRD_basic - page-35.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-36.png" alt="1_XRD_basic - page-36.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-37.png" alt="1_XRD_basic - page-37.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-38.png" alt="1_XRD_basic - page-38.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-39.png" alt="1_XRD_basic - page-39.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-40.png" alt="1_XRD_basic - page-40.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-41.png" alt="1_XRD_basic - page-41.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-42.png" alt="1_XRD_basic - page-42.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-43.png" alt="1_XRD_basic - page-43.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-44.png" alt="1_XRD_basic - page-44.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-45.png" alt="1_XRD_basic - page-45.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-46.png" alt="1_XRD_basic - page-46.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-47.png" alt="1_XRD_basic - page-47.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-48.png" alt="1_XRD_basic - page-48.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-49.png" alt="1_XRD_basic - page-49.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-50.png" alt="1_XRD_basic - page-50.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-51.png" alt="1_XRD_basic - page-51.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-52.png" alt="1_XRD_basic - page-52.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-53.png" alt="1_XRD_basic - page-53.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-54.png" alt="1_XRD_basic - page-54.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-55.png" alt="1_XRD_basic - page-55.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-56.png" alt="1_XRD_basic - page-56.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-57.png" alt="1_XRD_basic - page-57.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-58.png" alt="1_XRD_basic - page-58.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-59.png" alt="1_XRD_basic - page-59.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-60.png" alt="1_XRD_basic - page-60.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-61.png" alt="1_XRD_basic - page-61.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-62.png" alt="1_XRD_basic - page-62.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-63.png" alt="1_XRD_basic - page-63.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-64.png" alt="1_XRD_basic - page-64.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-65.png" alt="1_XRD_basic - page-65.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-66.png" alt="1_XRD_basic - page-66.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-67.png" alt="1_XRD_basic - page-67.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-68.png" alt="1_XRD_basic - page-68.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-69.png" alt="1_XRD_basic - page-69.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-70.png" alt="1_XRD_basic - page-70.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-71.png" alt="1_XRD_basic - page-71.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-72.png" alt="1_XRD_basic - page-72.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-73.png" alt="1_XRD_basic - page-73.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-74.png" alt="1_XRD_basic - page-74.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-75.png" alt="1_XRD_basic - page-75.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-76.png" alt="1_XRD_basic - page-76.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-77.png" alt="1_XRD_basic - page-77.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-78.png" alt="1_XRD_basic - page-78.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
-  <img src="/images/pdf-pages/1_XRD_basic/page-79.png" alt="1_XRD_basic - page-79.png" style="width: 100%; max-width: 800px; margin: 10px 0; border: 1px solid #ddd;" onclick="openImageModal(this.src)">
 </div>
 ```
 
