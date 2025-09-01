@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 <div data-lang="ko" class="show">
   학력 및 경력
   ======
