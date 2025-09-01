@@ -32,5 +32,5 @@ redirect_from:
 
 ## 자료 Download
 
-* [XRD 측정 가이드 (PDF)](https://drive.google.com/uc?export=download&id=1O-OMr_sh0UyB9OI9sOi0QGx0UP0BsR4L)
-* [표준화 연구 자료 (PDF)](https://drive.google.com/uc?export=download&id=1kcKvTg9S9eON9OaPv64qVz4-CM19JJlF)
+* [250904-KAIST (KARA) 박막분석 교육 - Session 1 다결정분석](https://drive.google.com/uc?export=download&id=1O-OMr_sh0UyB9OI9sOi0QGx0UP0BsR4L)
+* [250904-KAIST (KARA) 박막분석 교육 - Session 2 단결정에피분석](https://drive.google.com/uc?export=download&id=1kcKvTg9S9eON9OaPv64qVz4-CM19JJlF)
