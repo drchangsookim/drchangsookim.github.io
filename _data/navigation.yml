@@ -5,14 +5,35 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "소개"
-    url: /about/
+  - title: 
+      ko: "소개"
+      en: "About"
+    url: /
 
-  - title: "프로필"
+  - title:
+      ko: "프로필"  
+      en: "Profile"
     url: /profile/        
 
-  - title: "Publications"
+  - title: 
+      ko: "논문"
+      en: "Publications"
     url: /publications/
   
-  - title: "자료실"
+  - title:
+      ko: "자료실"
+      en: "Resources"
     url: /resources/
+
+# main:
+#   - title: "소개"
+#     url: /about/
+
+#   - title: "프로필"
+#     url: /profile/        
+
+#   - title: "Publications"
+#     url: /publications/
+  
+#   - title: "자료실"
+#     url: /resources/
