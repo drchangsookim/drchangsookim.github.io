@@ -36,8 +36,8 @@ redirect_from:
 <!-- (https://drive.google.com/uc?export=download&id=1O-OMr_sh0UyB9OI9sOi0QGx0UP0BsR4L) -->
 * 250904-KAIST (KARA) 박막분석 교육 - Session 2 단결정에피분석
 <!-- (https://drive.google.com/uc?export=download&id=1kcKvTg9S9eON9OaPv64qVz4-CM19JJlF) -->
-* [20250909 KITS 정기교육 - 박막분석 기법 이론]
+* 20250909 KITS 정기교육 - 박막분석 기법 이론
 <!-- (https://drive.google.com/uc?export=download&id=1G7tk31mV67OU0N78P7mvGfKJzbEmqadg) -->
-* [20250909 KITS 정기교육(박막분석 기법)을 위한 설문]
+* 20250909 KITS 정기교육(박막분석 기법)을 위한 설문
 <!-- (https://drive.google.com/uc?export=download&id=1CFH-cZVVJQhPzW4hegNRKYynw5NCsE7t) -->
 * [20250912 SEMI 사업부 전체 교육 review - XRD 박막분석](https://drive.google.com/uc?export=download&id=13AkxknzseNNEJGElJeHpMQ7D4707ZO76)
