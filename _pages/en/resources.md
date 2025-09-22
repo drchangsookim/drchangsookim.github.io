@@ -40,4 +40,6 @@ redirect_from:
 <!-- (https://drive.google.com/uc?export=download&id=1G7tk31mV67OU0N78P7mvGfKJzbEmqadg) -->
 * 20250909 KITS 정기교육(박막분석 기법)을 위한 설문
 <!-- (https://drive.google.com/uc?export=download&id=1CFH-cZVVJQhPzW4hegNRKYynw5NCsE7t) -->
-* [20250912 SEMI 사업부 전체 교육 review - XRD 박막분석](https://drive.google.com/uc?export=download&id=13AkxknzseNNEJGElJeHpMQ7D4707ZO76)
+* 20250912 SEMI 사업부 전체 교육 review - XRD 박막분석
+<!-- (https://drive.google.com/uc?export=download&id=13AkxknzseNNEJGElJeHpMQ7D4707ZO76) -->
+* [20250924 한양대학교 물리학과 세미나 - X-선 저각입사 원리 및 초박막 측정법](https://drive.google.com/uc?export=download&id=1qF4USu_wlQXB-STMz3yeeIYhTb_yOOFe)
