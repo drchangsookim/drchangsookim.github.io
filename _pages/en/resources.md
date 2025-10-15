@@ -44,6 +44,7 @@ redirect_from:
 <!-- (https://drive.google.com/uc?export=download&id=13AkxknzseNNEJGElJeHpMQ7D4707ZO76) -->
 * 20250924 한양대학교 물리학과 세미나 - X-선 저각입사 원리 및 초박막 측정법
 <!-- (https://drive.google.com/uc?export=download&id=1qF4USu_wlQXB-STMz3yeeIYhTb_yOOFe) -->
-* [20250930 KAIST (KARA) 박막분석 교육 2차 - HRXRD 특별주제 및 계산 실습](https://drive.google.com/uc?export=download&id=1T_N7dHqS-RqY1V7sNoM2zh4g97Ev_cg2)
+* 20250930 KAIST (KARA) 박막분석 교육 2차 - HRXRD 특별주제 및 계산 실습
+<!-- (https://drive.google.com/uc?export=download&id=1T_N7dHqS-RqY1V7sNoM2zh4g97Ev_cg2) -->
 
 
