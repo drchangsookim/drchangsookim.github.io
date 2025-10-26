@@ -30,7 +30,7 @@ redirect_from:
 | --------        | ------ | ------------------------------------------------------------ |
 | XRT 원리 및 응용       | [:page_facing_up:](/resources/xrt/XRT_principle_info/)   | [:paperclip:](/resources/xrt/XRT_principle/)                      |
 
-## 자료 Download
+## <span style="color: blue;">자료 Download</span>
 
 * 20250904-KAIST (KARA) 박막분석 교육 - Session 1 다결정분석
 <!-- (https://drive.google.com/uc?export=download&id=1O-OMr_sh0UyB9OI9sOi0QGx0UP0BsR4L) -->
@@ -46,6 +46,6 @@ redirect_from:
 <!-- (https://drive.google.com/uc?export=download&id=1qF4USu_wlQXB-STMz3yeeIYhTb_yOOFe) -->
 * 20250930 KAIST (KARA) 박막분석 교육 2차 - HRXRD 특별주제 및 계산 실습
 <!-- (https://drive.google.com/uc?export=download&id=1T_N7dHqS-RqY1V7sNoM2zh4g97Ev_cg2) -->
-[20251027 하반기 교육세미나 1 - 소멸규칙 및 & Si (200) 피크](https://drive.google.com/uc?export=download&id=14DjvIp_CHtkSrmnkkNghGcYaWBAfU0l2)
+* [20251027 하반기 교육세미나 1 - 소멸규칙 및 & Si (200) 피크](https://drive.google.com/uc?export=download&id=14DjvIp_CHtkSrmnkkNghGcYaWBAfU0l2)
 
 
