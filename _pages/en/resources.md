@@ -46,7 +46,9 @@ redirect_from:
 <!-- (https://drive.google.com/uc?export=download&id=1qF4USu_wlQXB-STMz3yeeIYhTb_yOOFe) -->
 * 20250930 KAIST (KARA) 박막분석 교육 2차 - HRXRD 특별주제 및 계산 실습
 <!-- (https://drive.google.com/uc?export=download&id=1T_N7dHqS-RqY1V7sNoM2zh4g97Ev_cg2) -->
-* [20251027 하반기 교육세미나 1 - 소멸규칙 및 & Si (200) 피크](https://drive.google.com/uc?export=download&id=14DjvIp_CHtkSrmnkkNghGcYaWBAfU0l2)
-* [20251103 하반기 교육세미나 2 - 회절강도 vs. 2theta](https://drive.google.com/uc?export=download&id=1kpiFu8h6njX3pGg5tDkIVC-w0Sm1scFM)
+* 20251027 하반기 교육세미나 1 - 소멸규칙 및 & Si (200) 피크
+<!-- (https://drive.google.com/uc?export=download&id=14DjvIp_CHtkSrmnkkNghGcYaWBAfU0l2) -->
+* 20251103 하반기 교육세미나 2 - 회절강도 vs. 2theta
+<!-- (https://drive.google.com/uc?export=download&id=1kpiFu8h6njX3pGg5tDkIVC-w0Sm1scFM) -->
 
 
