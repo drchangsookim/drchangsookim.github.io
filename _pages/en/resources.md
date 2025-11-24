@@ -50,5 +50,5 @@ redirect_from:
 <!-- (https://drive.google.com/uc?export=download&id=14DjvIp_CHtkSrmnkkNghGcYaWBAfU0l2) -->
 * 20251103 하반기 교육세미나 2 - 회절강도 vs. 2theta
 <!-- (https://drive.google.com/uc?export=download&id=1kpiFu8h6njX3pGg5tDkIVC-w0Sm1scFM) -->
-
+* 20251127 대덕연구단지 박막분석 심화교육 사전 설문조사[https://docs.google.com/document/d/1ebkorkyeieiZnKQjqYq8ibOZhr0k5Jwz/edit?usp=sharing&ouid=109630044424328275529&rtpof=true&sd=true]
 
