@@ -50,6 +50,11 @@ redirect_from:
 <!-- (https://drive.google.com/uc?export=download&id=14DjvIp_CHtkSrmnkkNghGcYaWBAfU0l2) -->
 * 20251103 하반기 교육세미나 2 - 회절강도 vs. 2theta
 <!-- (https://drive.google.com/uc?export=download&id=1kpiFu8h6njX3pGg5tDkIVC-w0Sm1scFM) -->
-* [20251127 대덕연구단지 박막분석 심화교육 사전 설문조사](https://drive.google.com/uc?export=download&id=1ebkorkyeieiZnKQjqYq8ibOZhr0k5Jwz)
-* [20251127 대덕연구단지 (충남대) 박막분석 심화교육 – 1강 다결정분석](https://drive.google.com/uc?export=download&id=1z2kEbi1UEEHgllHE3u4guYujarksJ2Sw)
-* [20251127 대덕연구단지 (충남대) 박막분석 심화교육 – 2강 에피층분석](https://drive.google.com/uc?export=download&id=1LXBLYrhVmU6oFvWc2oYpb7gEEIu-1FYM)
+* 20251127 대덕연구단지 박막분석 심화교육 사전 설문조사 
+<!-- (https://drive.google.com/uc?export=download&id=1ebkorkyeieiZnKQjqYq8ibOZhr0k5Jwz) -->
+* 20251127 대덕연구단지 (충남대) 박막분석 심화교육 – 1강 다결정분석
+<!-- (https://drive.google.com/uc?export=download&id=1z2kEbi1UEEHgllHE3u4guYujarksJ2Sw) -->
+* 20251127 대덕연구단지 (충남대) 박막분석 심화교육 – 2강 에피층분석
+<!-- (https://drive.google.com/uc?export=download&id=1LXBLYrhVmU6oFvWc2oYpb7gEEIu-1FYM) -->
+* [20251209 SK 실트론 면방위 교육 - 1강 XRD 기본](https://drive.google.com/uc?export=download&id=16Rm34sClzbPVVaXIDlq-R3nniFyTHI7V)
+* [20251209 SK 실트론 면방위 교육 - 2강 면방위 (Surface Orientation)](https://drive.google.com/uc?export=download&id=10bd9qRAsPZDWc8hih4Y0jw8i1AVrDtZZ)
