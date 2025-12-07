@@ -5,12 +5,11 @@ author_profile: true
 redirect_from: 
   - "/nmp/"
   - "/nmp.html"
+  - "/myfiles/"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
-
-Heading 1
+This is a page not in the menu. 
 ======
 
-Heading 2
-======
+* [표준연-1](https://drive.google.com/uc?export=download&id=1xGlqNGgrFaez5JKfoyuRg4s4ce-_-Fjc)
+* [표준연-2](https://drive.google.com/uc?export=download&id=17ei2Q7zSppcLBanf-WxSi61ZfYPWOEWY)
