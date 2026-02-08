@@ -62,7 +62,6 @@ redirect_from:
 <!-- (https://drive.google.com/uc?export=download&id=10bd9qRAsPZDWc8hih4Y0jw8i1AVrDtZZ) -->
 
 <!-- * [20251209 SK 실트론 면방위 교육 - 2강 면방위 (Surface Orientation)](https://drive.google.com/uc?export=download&id=10bd9qRAsPZDWc8hih4Y0jw8i1AVrDtZZ) -->
-\n
-\n
+
 * [20260209 한국 ITS 교육세미나 - Bragg 법칙의 다양한 이해](https://drive.google.com/uc?export=download&id=1jOYzFEhWCM6oaq1vkq3LIagjZ3NBG8c7)
 
