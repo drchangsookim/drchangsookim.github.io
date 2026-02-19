@@ -3,7 +3,7 @@ title: "다운로드"
 permalink: /downloads/
 redirect_from:
   - /downloads
----                  |
+---
 
 ## Downloads
 
