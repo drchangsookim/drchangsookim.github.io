@@ -25,6 +25,11 @@ main:
       en: "Resources"
     url: /resources/
 
+  - title:
+      ko: "다운로드"
+      en: "Downloads"
+    url: /downloads/
+
 # main:
 #   - title: "소개"
 #     url: /about/
