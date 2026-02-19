@@ -8,7 +8,7 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
-* 20260209 한국 ITS 교육세미나 - Bragg 법칙의 다양한 이해
+* 20260209 한국 ITS 교육세미나 - Bragg 법칙의 다양한 이해 
 <!-- (https://drive.google.com/uc?export=download&id=1jOYzFEhWCM6oaq1vkq3LIagjZ3NBG8c7) -->
 
 <u> 2025 </u>
