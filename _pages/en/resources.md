@@ -30,7 +30,7 @@ redirect_from:
 | --------        | ------ | ------------------------------------------------------------ |
 | XRT 원리 및 응용       | [:page_facing_up:](/resources/xrt/XRT_principle_info/)   | [:paperclip:](/resources/xrt/XRT_principle/)                      |
 
-## <span style="color: blue;">자료 Download</span>
+<!-- ## <span style="color: blue;">자료 Download</span>
 
 <u> 2025 </u>
 * 20250904-KAIST (KARA) 박막분석 교육 - Session 1 다결정분석
@@ -65,5 +65,5 @@ redirect_from:
 <!-- * [20251209 SK 실트론 면방위 교육 - 2강 면방위 (Surface Orientation)](https://drive.google.com/uc?export=download&id=10bd9qRAsPZDWc8hih4Y0jw8i1AVrDtZZ) -->
 
 <u> 2026 </u>
-* [20260209 한국 ITS 교육세미나 - Bragg 법칙의 다양한 이해](https://drive.google.com/uc?export=download&id=1jOYzFEhWCM6oaq1vkq3LIagjZ3NBG8c7)
+* [20260209 한국 ITS 교육세미나 - Bragg 법칙의 다양한 이해](https://drive.google.com/uc?export=download&id=1jOYzFEhWCM6oaq1vkq3LIagjZ3NBG8c7) -->
 
