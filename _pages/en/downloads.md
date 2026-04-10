@@ -8,6 +8,9 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
+* 20260402 KOREA Lab 전시 세미나 - 배터리 소재의 XRD 응용
+* 20260324 화학연 (KRICT) 교육 세미나 - XRD 박막 분석 집중교육 및 Q&A
+* 20260304 부산대 장비 소개 지원 - XRT 이론 소개/응용
 * 20260209 한국 ITS 교육세미나 - Bragg 법칙의 다양한 이해 
 <!-- (https://drive.google.com/uc?export=download&id=1jOYzFEhWCM6oaq1vkq3LIagjZ3NBG8c7) -->
 
