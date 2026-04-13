@@ -8,7 +8,8 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
-* [20260413 한국 ITS 교육세미나 – 3D DRAM용 SiGe/Si 초격자 XRD/XRT 분석](https://drive.google.com/uc?export=download&id=15ZyDxeUYc1qMLSbN4NmVzwubB4jbiTL9)
+* 20260413 한국 ITS 교육세미나 – 3D DRAM용 SiGe/Si 초격자 XRD/XRT 분석
+<!-- (https://drive.google.com/uc?export=download&id=15ZyDxeUYc1qMLSbN4NmVzwubB4jbiTL9) -->
 * 20260402 KOREA Lab 전시 세미나 - 배터리 소재의 XRD 응용
 * 20260324 화학연 (KRICT) 교육 세미나 - XRD 박막 분석 집중교육 및 Q&A
 * 20260304 부산대 장비 소개 지원 - XRT 이론 소개/응용
