@@ -8,7 +8,8 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
-* [20260429 한국에너지기술연구원 (KIER) 장비도입 세미나 -  분말 XRD 기초 및 응용](https://drive.google.com/uc?export=download&id=1Vz5SLpm0mOPyUWiZ8Dg-U2x3ArP6IwWv)
+* 20260429 한국에너지기술연구원 (KIER) 장비도입 세미나 -  분말 XRD 기초 및 응용
+<!-- (https://drive.google.com/uc?export=download&id=1Vz5SLpm0mOPyUWiZ8Dg-U2x3ArP6IwWv) -->
 * 20260413 한국 ITS 교육세미나 – 3D DRAM용 SiGe/Si 초격자 XRD/XRT 분석
 <!-- (https://drive.google.com/uc?export=download&id=15ZyDxeUYc1qMLSbN4NmVzwubB4jbiTL9) -->
 * 20260402 KOREA Lab 전시 세미나 - 배터리 소재의 XRD 응용
