@@ -8,7 +8,7 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
-<!-- * [20260609 한국 ITS 정기교육: 박막 분석기법 및 SLS II S/W 활용 - 이론 교육 준비를 위한 사전 설문 조사] (https://drive.google.com/uc?export=download&id=109630044424328275529) -->
+* [20260609 한국 ITS 정기교육: 박막 분석기법 및 SLS II S/W 활용 - 이론 교육 준비를 위한 사전 설문 조사] (https://drive.google.com/uc?export=download&id=1jaAak1fTxDaWluL-EZPMXoKbJbR5wcu5)
 * 20260515 삼성연구소 (NRD) 세미나 - 사전/사후 Q&A 정리
 * 20260515 삼성연구소 (NRD) 세미나 - 반도체박막 XRD 측정법 이해 및 응용
 * 20260429 한국에너지기술연구원 (KIER) 장비도입 세미나 -  분말 XRD 기초 및 응용
