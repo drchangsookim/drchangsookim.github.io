@@ -8,7 +8,8 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
-* [20260622 한국 ITS 교육세미나 - XRR 이해 및 good simulation/fit 고찰](https://drive.google.com/uc?export=download&id=1NbmDG6jd34gmah6YHm18DfImEZFOmurV)
+* 20260622 한국 ITS 교육세미나 - XRR 이해 및 good simulation/fit 고찰
+<!-- (https://drive.google.com/uc?export=download&id=1NbmDG6jd34gmah6YHm18DfImEZFOmurV) -->
 * 20260609 한국 ITS 정기교육: 박막 분석기법 및 SLS II S/W 활용 – XRD 박막 분석 기법: 이론
 * 20260609 한국 ITS 정기교육: 박막 분석기법 및 SLS II S/W 활용 - 이론 교육 준비를 위한 사전 설문 조사
 <!-- (https://drive.google.com/uc?export=download&id=1P7GTvLyQCRwWk2eW4fS4rXTS0e_q69R8) -->
