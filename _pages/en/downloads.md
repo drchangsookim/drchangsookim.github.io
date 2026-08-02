@@ -8,6 +8,7 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
+* [20260803 한국 ITS 교육세미나 – XRR 및 Diffuse Scattering 이용 표면/계면 분석](https://drive.google.com/uc?export=download&id=TnTZk-IVg_ZuGknAwTVLgWMSpP0opgPP)
 * 20260622 한국 ITS 교육세미나 - XRR 이해 및 good simulation/fit 고찰
 <!-- (https://drive.google.com/uc?export=download&id=1NbmDG6jd34gmah6YHm18DfImEZFOmurV) -->
 * 20260609 한국 ITS 정기교육: 박막 분석기법 및 SLS II S/W 활용 – XRD 박막 분석 기법: 이론
