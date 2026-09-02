@@ -8,6 +8,8 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
+* [20260904 삼성연구소 (NRD) 2차 세미나 – X-선 응용 반도체 박막/계면 측정 분석](https://drive.google.com/uc?export=download&id=1GY35SQz5t9sRdGz26IkD9Q9_0dSBSx-g)
+* [20260904 삼성연구소 (NRD) 2차 세미나 – X-선 응용 반도체 박막/계면 측정 분석: 추가자료 – X-선 및 결정 구조](https://drive.google.com/uc?export=download&id=12qjUIaOhv3Zck62HBSqjdLEBgc4WlmxR)
 * 20260803 한국 ITS 교육세미나 – XRR 및 Diffuse Scattering 이용 표면/계면 분석
 <!-- (https://drive.google.com/uc?export=download&id=1TnTZk-IVg_ZuGknAwTVLgWMSpP0opgPP) -->
 * 20260622 한국 ITS 교육세미나 - XRR 이해 및 good simulation/fit 고찰
