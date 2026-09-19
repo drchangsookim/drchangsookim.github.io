@@ -8,6 +8,8 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
+* [20260921 한국 ITS 교육세미나 – HRXRD 이용 SiGe 박막 조성 분석](https://drive.google.com/uc?export=download&id=1Sada6mDFUODUxWFz3yYz4GV20ySf4H2O)
+* [20260921 한국 ITS 교육세미나 – HRXRD 이용 SiGe 박막 조성 분석: 추가자료 (X-선 및 결정구조)](https://drive.google.com/uc?export=download&id=1BdkXMySSHNPjId8sDAFdCuFAb8uTVTm_)
 * 20260904 삼성연구소 (NRD) 2차 세미나 – X-선 응용 반도체 박막/계면 측정 분석
 <!-- (https://drive.google.com/uc?export=download&id=12qjUIaOhv3Zck62HBSqjdLEBgc4WlmxR) -->
 * 20260904 삼성연구소 (NRD) 2차 세미나 – X-선 응용 반도체 박막/계면 측정 분석: 추가자료 – X-선 및 결정 구조
