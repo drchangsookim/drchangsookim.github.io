@@ -8,6 +8,7 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
+* 20261027 한국 표준과학연구원 세미나 - X-선 응용 박막 표면/계면 구조특성 분석
 * 20260921 한국 ITS 교육세미나 – HRXRD 이용 SiGe 박막 조성 분석
 <!-- (https://drive.google.com/uc?export=download&id=1Sada6mDFUODUxWFz3yYz4GV20ySf4H2O) -->
 * 20260921 한국 ITS 교육세미나 – HRXRD 이용 SiGe 박막 조성 분석: 추가자료 (X-선 및 결정구조)
