@@ -8,6 +8,7 @@ redirect_from:
 ## Downloads
 
 <u> 2026 </u>
+* 20261106 삼성연구소 (NRD) 3차 세미나 - HRXRD/XRT 응용 단<span>&#183;</span>다층 SiGe/Si 에피층 분석 (XRT: X-ray Topography)
 * 20261027 한국 표준과학연구원 세미나 - X-선 응용 박막 표면/계면 구조특성 분석
 * 20260921 한국 ITS 교육세미나 – HRXRD 이용 SiGe 박막 조성 분석
 <!-- (https://drive.google.com/uc?export=download&id=1Sada6mDFUODUxWFz3yYz4GV20ySf4H2O) -->
